@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LOOM – Transit Map Generator</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #111;
+      color: #e0e0e0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    header {
+      padding: 1rem 1.5rem;
+      border-bottom: 1px solid #2a2a2a;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-shrink: 0;
+    }
+    header h1 { font-size: 1.2rem; font-weight: 700; letter-spacing: 0.05em; }
+    header p  { font-size: 0.78rem; color: #888; }
+
+    main {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+    }
+
+    /* ── Sidebar ── */
+    .sidebar {
+      width: 320px;
+      min-width: 280px;
+      border-right: 1px solid #2a2a2a;
+      overflow-y: auto;
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .section {
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid #1e1e1e;
+    }
+
+    .section-title {
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #666;
+      margin-bottom: 0.6rem;
+    }
+
+    /* inputs */
+    select, input[type=text], input[type=number] {
+      width: 100%;
+      background: #1a1a1a;
+      border: 1px solid #2e2e2e;
+      color: #ddd;
+      padding: 0.4rem 0.5rem;
+      border-radius: 5px;
+      font-size: 0.82rem;
+    }
+    select:focus, input:focus { outline: 1px solid #4a9eff; }
+
+    /* pipeline toggles */
+    .toggle-row {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.84rem;
+      padding: 0.2rem 0;
+    }
+    .toggle-row input[type=checkbox] { accent-color: #4a9eff; width: 14px; height: 14px; flex-shrink: 0; }
+
+    .run-btn {
+      display: block;
+      padding: 0.65rem 1rem;
+      background: #4a9eff;
+      color: #000;
+      border: none;
+      border-radius: 7px;
+      font-size: 0.88rem;
+      font-weight: 700;
+      cursor: pointer;
+      width: 100%;
+      transition: background 0.15s;
+    }
+    .run-btn:hover { background: #6ab5ff; }
+    .run-btn:disabled { background: #1e2a38; color: #445; cursor: not-allowed; }
+
+    .status {
+      font-size: 0.78rem;
+      color: #666;
+      margin-top: 0.4rem;
+      min-height: 1.1rem;
+    }
+    .status.error { color: #ff6b6b; }
+    .status.ok    { color: #6bff9e; }
+
+    /* ── Tool option sections ── */
+    details { border-bottom: 1px solid #1e1e1e; }
+    details > summary {
+      cursor: pointer;
+      padding: 0.6rem 1rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: #888;
+      text-transform: uppercase;
+      letter-spacing: 0.09em;
+      user-select: none;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    details > summary::-webkit-details-marker { display: none; }
+    details > summary::before {
+      content: '▶';
+      font-size: 0.6rem;
+      color: #555;
+      transition: transform 0.15s;
+    }
+    details[open] > summary::before { transform: rotate(90deg); }
+    details > summary .tool-badge {
+      font-size: 0.65rem;
+      background: #1e1e1e;
+      border: 1px solid #333;
+      border-radius: 3px;
+      padding: 0.05rem 0.35rem;
+      color: #aaa;
+      font-family: monospace;
+    }
+    details.disabled > summary { opacity: 0.35; pointer-events: none; }
+
+    .opts {
+      padding: 0.5rem 1rem 0.8rem;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0.45rem 0.6rem;
+      align-items: center;
+    }
+    .opts .opt-label {
+      font-size: 0.76rem;
+      color: #aaa;
+      white-space: nowrap;
+    }
+    .opts .full-row {
+      grid-column: 1 / -1;
+    }
+    .opts .full-row .toggle-row { padding: 0; }
+
+    /* sub-group heading inside opts */
+    .opts .sub-head {
+      grid-column: 1 / -1;
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #555;
+      margin-top: 0.4rem;
+      padding-top: 0.4rem;
+      border-top: 1px solid #1e1e1e;
+    }
+
+    input[type=number] { width: 100%; }
+
+    /* Log */
+    #log {
+      background: #0a0a0a;
+      border: 1px solid #1e1e1e;
+      border-radius: 5px;
+      padding: 0.5rem;
+      font-family: monospace;
+      font-size: 0.7rem;
+      color: #555;
+      max-height: 120px;
+      overflow-y: auto;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+
+    /* ── Output pane ── */
+    .output-wrap {
+      flex: 1;
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .output-pane {
+      flex: 1;
+      overflow: auto;
+      background: #fff;
+      display: flex;
+      align-items: flex-start;
+      justify-content: center;
+      padding: 1rem;
+    }
+
+    .output-pane svg { max-width: 100%; height: auto; }
+
+    /* ── Spinner overlay ── */
+    #spinner {
+      display: none;
+      position: absolute;
+      inset: 0;
+      background: rgba(255,255,255,0.7);
+      align-items: center;
+      justify-content: center;
+      z-index: 10;
+    }
+    #spinner.active { display: flex; }
+    .spin-ring {
+      width: 48px; height: 48px;
+      border: 5px solid #ddd;
+      border-top-color: #4a9eff;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .placeholder {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100%;
+      color: #bbb;
+      gap: 0.5rem;
+      font-size: 0.9rem;
+      text-align: center;
+    }
+    .placeholder span { font-size: 3rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>LOOM</h1>
+    <p>Transit map generator — compiled to WebAssembly</p>
+  </div>
+</header>
+
+<main>
+<aside class="sidebar">
+
+  <!-- Input -->
+  <div class="section">
+    <div class="section-title">Example network</div>
+    <select id="example-select">
+      <option value="">— select —</option>
+      <option value="examples/stuttgart.json">Stuttgart</option>
+      <option value="examples/freiburg.json">Freiburg</option>
+      <option value="examples/berlin.json">Berlin</option>
+      <option value="examples/chicago.json">Chicago</option>
+      <option value="examples/sydney.json">Sydney</option>
+      <option value="examples/wien.json">Wien</option>
+    </select>
+    <div style="margin-top:0.5rem; font-size:0.75rem; color:#555;">Or upload a GeoJSON graph</div>
+    <input type="file" id="file-input" accept=".json,.geojson"
+      style="margin-top:0.3rem; font-size:0.78rem; color:#aaa; width:100%; background:none; border:none; padding:0;">
+  </div>
+
+  <!-- Pipeline toggles -->
+  <div class="section">
+    <div class="section-title">Pipeline</div>
+    <div class="toggle-row">
+      <input type="checkbox" id="opt-topo">
+      <span>Topological cleanup <code style="font-size:0.7rem;color:#666">topo</code></span>
+    </div>
+    <div class="toggle-row">
+      <input type="checkbox" id="opt-schematic">
+      <span>Schematic / octilinear <code style="font-size:0.7rem;color:#666">octi</code></span>
+    </div>
+  </div>
+
+  <!-- Run -->
+  <div class="section">
+    <button class="run-btn" id="run-btn" disabled>Generate map</button>
+    <div class="status" id="status">Load a network to get started.</div>
+  </div>
+
+  <!-- ══════════════════════════════════════
+       topo options
+       ══════════════════════════════════════ -->
+  <details id="topo-details" class="disabled">
+    <summary><span class="tool-badge">topo</span> Options</summary>
+    <div class="opts">
+
+      <span class="opt-label">Max aggr. dist (m)</span>
+      <input type="number" data-tool="topo" data-arg="--max-aggr-dist" value="50" min="0" step="1"
+             title="Maximum distance between segments to consider for aggregation">
+
+      <span class="opt-label">Max comp. dist (m)</span>
+      <input type="number" data-tool="topo" data-arg="--max-comp-dist" value="10000" min="0" step="100"
+             title="Max distance between nodes in a component">
+
+      <span class="opt-label">Sample dist</span>
+      <input type="number" data-tool="topo" data-arg="--sample-dist" value="5" min="0.1" step="0.5"
+             title="Sample length for map construction (pseudometers)">
+
+      <span class="opt-label">Smooth</span>
+      <input type="number" data-tool="topo" data-arg="--smooth" value="0" min="0" step="1"
+             title="Smooth output graph edge geometries">
+
+      <span class="opt-label">Max length dev</span>
+      <input type="number" data-tool="topo" data-arg="--max-length-dev" value="500" min="0" step="10"
+             title="Maximum distance deviation for turn restriction inference">
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="topo" data-arg="--no-infer-restrs">
+          <span class="opt-label">Don't infer turn restrictions</span>
+        </div>
+      </div>
+
+      <span class="opt-label">Restr max dist</span>
+      <input type="number" data-tool="topo" data-arg="--infer-restr-max-dist" value=""
+             placeholder="(= -d)" min="0" step="1"
+             title="Max dist for edges considered for turn restrictions">
+
+      <span class="opt-label">Full turn angle</span>
+      <input type="number" data-tool="topo" data-arg="--turn-restr-full-turn-angle" value="0" min="0" step="1"
+             title="Angles smaller than this count as full turn">
+
+      <span class="opt-label">Full turn pen</span>
+      <input type="number" data-tool="topo" data-arg="--turn-restr-full-turn-pen" value="0" min="0" step="1"
+             title="Penalty for full turns during restriction inference">
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="topo" data-arg="--random-colors">
+          <span class="opt-label">Fill missing colors randomly</span>
+        </div>
+      </div>
+
+    </div>
+  </details>
+
+  <!-- ══════════════════════════════════════
+       loom options
+       ══════════════════════════════════════ -->
+  <details>
+    <summary><span class="tool-badge">loom</span> Options</summary>
+    <div class="opts">
+
+      <span class="opt-label">Optim method</span>
+      <select data-tool="loom" data-arg="--optim-method"
+              title="Optimization method for line ordering">
+        <option value="comb-no-ilp" selected>comb-no-ilp (default)</option>
+        <option value="comb">comb</option>
+        <option value="ilp">ilp</option>
+        <option value="ilp-naive">ilp-naive</option>
+        <option value="exhaust">exhaust</option>
+        <option value="hillc">hillc</option>
+        <option value="hillc-random">hillc-random</option>
+        <option value="anneal">anneal</option>
+        <option value="anneal-random">anneal-random</option>
+        <option value="greedy">greedy</option>
+        <option value="greedy-lookahead">greedy-lookahead</option>
+        <option value="null">null</option>
+      </select>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="loom" data-arg="--no-untangle">
+          <span class="opt-label">Don't apply untangling rules</span>
+        </div>
+      </div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="loom" data-arg="--no-prune">
+          <span class="opt-label">Don't apply pruning rules</span>
+        </div>
+      </div>
+
+      <div class="sub-head">Crossing &amp; separation penalties</div>
+
+      <span class="opt-label">Same-seg cross pen</span>
+      <input type="number" data-tool="loom" data-arg="--same-seg-cross-pen" value="4" min="0" step="1"
+             title="Penalty for same-segment crossings">
+
+      <span class="opt-label">Diff-seg cross pen</span>
+      <input type="number" data-tool="loom" data-arg="--diff-seg-cross-pen" value="1" min="0" step="1"
+             title="Penalty for diff-segment crossings">
+
+      <span class="opt-label">In-stat same-seg</span>
+      <input type="number" data-tool="loom" data-arg="--in-stat-cross-pen-same-seg" value="12" min="0" step="1"
+             title="Penalty for same-segment crossings at stations">
+
+      <span class="opt-label">In-stat diff-seg</span>
+      <input type="number" data-tool="loom" data-arg="--in-stat-cross-pen-diff-seg" value="3" min="0" step="1"
+             title="Penalty for diff-segment crossings at stations">
+
+      <span class="opt-label">Sep pen</span>
+      <input type="number" data-tool="loom" data-arg="--sep-pen" value="3" min="0" step="1"
+             title="Penalty for separations">
+
+      <span class="opt-label">In-stat sep pen</span>
+      <input type="number" data-tool="loom" data-arg="--in-stat-sep-pen" value="9" min="0" step="1"
+             title="Penalty for separations at stations">
+
+    </div>
+  </details>
+
+  <!-- ══════════════════════════════════════
+       octi options
+       ══════════════════════════════════════ -->
+  <details id="octi-details" class="disabled">
+    <summary><span class="tool-badge">octi</span> Options</summary>
+    <div class="opts">
+
+      <span class="opt-label">Optim mode</span>
+      <select data-tool="octi" data-arg="--optim-mode"
+              title="Optimization mode">
+        <option value="heur" selected>heur (default)</option>
+        <option value="ilp">ilp</option>
+      </select>
+
+      <span class="opt-label">Base graph</span>
+      <select data-tool="octi" data-arg="--base-graph"
+              title="Base graph type for schematization">
+        <option value="octilinear" selected>octilinear (default)</option>
+        <option value="ortholinear">ortholinear</option>
+        <option value="orthoradial">orthoradial</option>
+        <option value="quadtree">quadtree</option>
+        <option value="octihanan">octihanan</option>
+      </select>
+
+      <span class="opt-label">Grid size</span>
+      <input type="text" data-tool="octi" data-arg="--grid-size" value="100%"
+             title="Grid cell length: exact value or % of adjacent station distance">
+
+      <span class="opt-label">Max grid dist</span>
+      <input type="number" data-tool="octi" data-arg="--max-grid-dist" value="3" min="1" step="1"
+             title="Max grid distance for station candidates">
+
+      <span class="opt-label">Edge order</span>
+      <select data-tool="octi" data-arg="--edge-order"
+              title="Method for initial edge ordering">
+        <option value="all" selected>all (default)</option>
+        <option value="num-lines">num-lines</option>
+        <option value="length">length</option>
+        <option value="adj-nd-deg">adj-nd-deg</option>
+        <option value="adj-nd-ldeg">adj-nd-ldeg</option>
+        <option value="growth-deg">growth-deg</option>
+        <option value="growth-ldef">growth-ldef</option>
+      </select>
+
+      <span class="opt-label">Hanan iters</span>
+      <input type="number" data-tool="octi" data-arg="--hanan-iters" value="1" min="1" step="1"
+             title="Number of Hanan grid iterations">
+
+      <span class="opt-label">Loc search iters</span>
+      <input type="number" data-tool="octi" data-arg="--loc-search-max-iters" value="100" min="0" step="10"
+             title="Max local search iterations">
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="octi" data-arg="--retry-on-error">
+          <span class="opt-label">Retry at 85% grid size on error</span>
+        </div>
+      </div>
+
+      <div class="sub-head">Geographic fidelity</div>
+
+      <span class="opt-label">Geo pen</span>
+      <input type="number" data-tool="octi" data-arg="--geo-pen" value="0" min="0" step="0.5"
+             title="Enforce lines to follow input geo course">
+
+      <span class="opt-label">Node move pen</span>
+      <input type="number" data-tool="octi" data-arg="--nd-move-pen" value="0.5" min="0" step="0.1"
+             title="Penalty for node movement from original position">
+
+      <span class="opt-label">Density pen</span>
+      <input type="number" data-tool="octi" data-arg="--density-pen" value="10" min="0" step="1"
+             title="Restrict local search to max grid distance">
+
+      <div class="sub-head">Direction penalties</div>
+
+      <span class="opt-label">Vert pen</span>
+      <input type="number" data-tool="octi" data-arg="--vert-pen" value="0" min="0" step="0.1"
+             title="Penalty for vertical edges">
+
+      <span class="opt-label">Horiz pen</span>
+      <input type="number" data-tool="octi" data-arg="--hori-pen" value="0" min="0" step="0.1"
+             title="Penalty for horizontal edges">
+
+      <span class="opt-label">Diag pen</span>
+      <input type="number" data-tool="octi" data-arg="--diag-pen" value="0.5" min="0" step="0.1"
+             title="Penalty for diagonal edges">
+
+      <div class="sub-head">Bend penalties</div>
+
+      <span class="opt-label">180° bend pen</span>
+      <input type="number" data-tool="octi" data-arg="--pen-180" value="0" min="0" step="0.5"
+             title="Penalty for 180° bends">
+
+      <span class="opt-label">135° bend pen</span>
+      <input type="number" data-tool="octi" data-arg="--pen-135" value="1" min="0" step="0.5"
+             title="Penalty for 135° bends">
+
+      <span class="opt-label">90° bend pen</span>
+      <input type="number" data-tool="octi" data-arg="--pen-90" value="1.5" min="0" step="0.5"
+             title="Penalty for 90° bends">
+
+      <span class="opt-label">45° bend pen</span>
+      <input type="number" data-tool="octi" data-arg="--pen-45" value="2" min="0" step="0.5"
+             title="Penalty for 45° bends">
+
+    </div>
+  </details>
+
+  <!-- ══════════════════════════════════════
+       transitmap options
+       ══════════════════════════════════════ -->
+  <details>
+    <summary><span class="tool-badge">transitmap</span> Options</summary>
+    <div class="opts">
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" id="opt-labels" data-tool="transitmap" data-arg="--labels" checked>
+          <span class="opt-label">Render station labels</span>
+        </div>
+      </div>
+
+      <div class="sub-head">Sizing</div>
+
+      <span class="opt-label">Line width</span>
+      <input type="number" data-tool="transitmap" data-arg="--line-width" value="20" min="1" step="1"
+             title="Width of a single transit line">
+
+      <span class="opt-label">Line spacing</span>
+      <input type="number" data-tool="transitmap" data-arg="--line-spacing" value="10" min="0" step="1"
+             title="Spacing between transit lines">
+
+      <span class="opt-label">Outline width</span>
+      <input type="number" data-tool="transitmap" data-arg="--outline-width" value="1" min="0" step="0.5"
+             title="Width of line outlines">
+
+      <span class="opt-label">Padding</span>
+      <input type="number" data-tool="transitmap" data-arg="--padding" value="-1" step="1"
+             title="Padding around map; -1 = auto">
+
+      <span class="opt-label">Smoothing</span>
+      <input type="number" data-tool="transitmap" data-arg="--smoothing" value="1" min="0" step="0.1"
+             title="Input line smoothing">
+
+      <div class="sub-head">Labels</div>
+
+      <span class="opt-label">Line label size</span>
+      <input type="number" data-tool="transitmap" data-arg="--line-label-textsize" value="40" min="1" step="1"
+             title="Text size for line labels">
+
+      <span class="opt-label">Station label size</span>
+      <input type="number" data-tool="transitmap" data-arg="--station-label-textsize" value="60" min="1" step="1"
+             title="Text size for station labels">
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--no-deg2-labels">
+          <span class="opt-label">No labels for degree-2 stations</span>
+        </div>
+      </div>
+
+      <div class="sub-head">Rendering</div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--render-dir-markers">
+          <span class="opt-label">Render direction markers</span>
+        </div>
+      </div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--random-colors">
+          <span class="opt-label">Fill missing colors randomly</span>
+        </div>
+      </div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--tight-stations">
+          <span class="opt-label">Tight stations (no front expansion)</span>
+        </div>
+      </div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--no-render-stations">
+          <span class="opt-label">Don't render stations</span>
+        </div>
+      </div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--no-render-node-connections">
+          <span class="opt-label">Don't render node connections</span>
+        </div>
+      </div>
+
+      <div class="full-row">
+        <div class="toggle-row">
+          <input type="checkbox" data-tool="transitmap" data-arg="--render-node-fronts">
+          <span class="opt-label">Render node fronts (debug)</span>
+        </div>
+      </div>
+
+    </div>
+  </details>
+
+  <!-- Log -->
+  <div class="section" style="flex:1; min-height:80px;">
+    <div class="section-title">Log</div>
+    <div id="log"></div>
+  </div>
+
+</aside>
+
+<div class="output-wrap">
+  <div id="spinner"><div class="spin-ring"></div></div>
+  <section class="output-pane" id="output-pane">
+    <div class="placeholder" id="placeholder">
+      <span>🗺️</span>
+      <p>Select an example or upload a GeoJSON file,<br>then click <strong>Generate map</strong>.</p>
+    </div>
+  </section>
+</div>
+</main>
+
+<script src="loom.js"></script>
+<script src="topo.js"></script>
+<script src="octi.js"></script>
+<script src="transitmap.js"></script>
+
+<script>
+'use strict';
+
+const logEl       = document.getElementById('log');
+const statusEl    = document.getElementById('status');
+const runBtn      = document.getElementById('run-btn');
+const topoDetails = document.getElementById('topo-details');
+const octiDetails = document.getElementById('octi-details');
+const spinner     = document.getElementById('spinner');
+
+function showSpinner() { spinner.classList.add('active'); }
+function hideSpinner() { spinner.classList.remove('active'); }
+
+let inputJson        = null;
+let preRenderJson    = null; // output of loom / octi — reused for live transitmap re-renders
+let renderInProgress = false;
+let pendingRerender  = false;
+let rerenderDebounce = null;
+
+// ── Logging ───────────────────────────────────────────────
+function log(msg) {
+  logEl.textContent += msg + '\n';
+  logEl.scrollTop = logEl.scrollHeight;
+}
+function setStatus(msg, type = '') {
+  statusEl.textContent = msg;
+  statusEl.className = 'status ' + type;
+}
+
+// ── Collect args from data-tool attributes ────────────────
+function collectArgs(toolId) {
+  const args = [];
+  document.querySelectorAll(`[data-tool="${toolId}"]`).forEach(el => {
+    const arg = el.dataset.arg;
+    if (!arg) return;
+    if (el.type === 'checkbox') {
+      if (el.checked) args.push(arg);
+    } else {
+      const v = String(el.value).trim();
+      if (v !== '') args.push(arg, v);
+    }
+  });
+  return args;
+}
+
+// ── Run a single WASM tool ────────────────────────────────
+// main() runs automatically (INVOKE_RUN=1). Programs call exit(0) which
+// causes the factory Promise to reject with ExitStatus(0) — that's normal.
+// EXIT_RUNTIME=1 ensures stdout is flushed before the exception is thrown.
+function runWasmTool(createFn, inputStr, args) {
+  return new Promise((resolve, reject) => {
+    const bytes = new TextEncoder().encode(inputStr);
+    let pos = 0, stdout = '';
+    createFn({
+      stdin:     () => pos < bytes.length ? bytes[pos++] : null,
+      print:     text => { stdout += text + '\n'; },
+      printErr:  text => { log('[stderr] ' + text); },
+      arguments: args,
+    }).then(() => resolve(stdout))
+      .catch(e => {
+        if (e && e.name === 'ExitStatus' && e.status === 0) resolve(stdout);
+        else reject(e instanceof Error ? e : new Error(String(e)));
+      });
+  });
+}
+
+// ── Render with transitmap only (uses cached preRenderJson) ──
+async function rerender() {
+  if (!preRenderJson) return;
+  if (renderInProgress) { pendingRerender = true; return; }
+
+  renderInProgress = true;
+  showSpinner();
+  setStatus('transitmap…');
+  try {
+    const args = collectArgs('transitmap');
+    const svg  = await runWasmTool(createTransitmap, preRenderJson, args);
+    log('re-render done (' + svg.length + ' bytes)');
+    document.getElementById('output-pane').innerHTML = svg;
+    setStatus('Done.', 'ok');
+  } catch (e) {
+    setStatus('Error: ' + e.message, 'error');
+    log('ERROR: ' + e.message);
+  } finally {
+    hideSpinner();
+    renderInProgress = false;
+    if (pendingRerender) { pendingRerender = false; rerender(); }
+  }
+}
+
+// ── Main pipeline ─────────────────────────────────────────
+async function generate() {
+  if (!inputJson) return;
+  runBtn.disabled = true;
+  showSpinner();
+  logEl.textContent = '';
+  document.getElementById('placeholder')?.remove();
+
+  const useTopo      = document.getElementById('opt-topo').checked;
+  const useSchematic = document.getElementById('opt-schematic').checked;
+
+  try {
+    let current = inputJson;
+
+    if (useTopo) {
+      const args = collectArgs('topo');
+      setStatus('topo…');
+      log('topo ' + args.join(' '));
+      current = await runWasmTool(createTopo, current, args);
+      log('topo done (' + current.length + ' bytes)');
+    }
+
+    {
+      const args = collectArgs('loom');
+      setStatus('loom…');
+      log('loom ' + args.join(' '));
+      current = await runWasmTool(createLoom, current, args);
+      log('loom done (' + current.length + ' bytes)');
+    }
+
+    if (useSchematic) {
+      const args = collectArgs('octi');
+      setStatus('octi…');
+      log('octi ' + args.join(' '));
+      current = await runWasmTool(createOcti, current, args);
+      log('octi done (' + current.length + ' bytes)');
+    }
+
+    preRenderJson = current; // cache for live re-renders
+
+    {
+      const args = collectArgs('transitmap');
+      setStatus('transitmap…');
+      log('transitmap ' + args.join(' '));
+      const svg = await runWasmTool(createTransitmap, current, args);
+      log('transitmap done (' + svg.length + ' bytes)');
+      document.getElementById('output-pane').innerHTML = svg;
+    }
+
+    setStatus('Done.', 'ok');
+  } catch (e) {
+    setStatus('Error: ' + e.message, 'error');
+    log('ERROR: ' + e.message);
+    console.error(e);
+  } finally {
+    hideSpinner();
+    runBtn.disabled = false;
+  }
+}
+
+// ── UI wiring ─────────────────────────────────────────────
+function loadJson(text) {
+  inputJson = text;
+  preRenderJson = null; // stale cache
+  runBtn.disabled = false;
+  setStatus('Ready — click "Generate map".');
+  log('Loaded ' + text.length + ' bytes.');
+}
+
+// Live re-render on any transitmap option change.
+// Checkboxes and selects trigger immediately; number inputs are debounced 400 ms.
+document.querySelectorAll('[data-tool="transitmap"]').forEach(el => {
+  const eventType = (el.type === 'checkbox' || el.tagName === 'SELECT') ? 'change' : 'input';
+  el.addEventListener(eventType, () => {
+    if (!preRenderJson) return;
+    clearTimeout(rerenderDebounce);
+    rerenderDebounce = setTimeout(rerender, el.type === 'number' ? 400 : 0);
+  });
+});
+
+document.getElementById('opt-topo').addEventListener('change', e => {
+  topoDetails.classList.toggle('disabled', !e.target.checked);
+});
+document.getElementById('opt-schematic').addEventListener('change', e => {
+  octiDetails.classList.toggle('disabled', !e.target.checked);
+});
+
+document.getElementById('example-select').addEventListener('change', async e => {
+  const url = e.target.value;
+  if (!url) return;
+  setStatus('Fetching…');
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(res.status);
+    loadJson(await res.text());
+  } catch (err) {
+    setStatus('Failed: ' + err.message, 'error');
+  }
+});
+
+document.getElementById('file-input').addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const r = new FileReader();
+  r.onload = ev => loadJson(ev.target.result);
+  r.readAsText(file);
+});
+
+runBtn.addEventListener('click', generate);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+// Copyright 2016
+// Author: Patrick Brosi
+
+#ifndef SRC_GTFS2GRAPH_CONFIG_H_
+#define SRC_GTFS2GRAPH_CONFIG_H_
+
+
+// version number from cmake version module
+#define VERSION_FULL "-128-NOTFOUND-dirty"
+
+#endif  // SRC_GTFS2GGRAPH_CONFIG_H_N
