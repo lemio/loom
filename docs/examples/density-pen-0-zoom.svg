@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="705" latlng-box="7.784392,47.963327,7.899254,48.033907" viewBox="319.673794 234.8519844 639.347588 704.5559532" width="639" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs />
+    <g>
+        <polyline class="transit-edge-outline line-5" points=" 539.028,430.952 539.028,462.179" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 539.028,430.952 539.028,462.179" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 539.028,399.725 539.028,430.952" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 539.028,399.725 539.028,430.952" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 289.212,173.204 289.212,258.954" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 289.212,173.204 289.212,258.954" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 289.212,87.4542 289.212,173.204" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 289.212,87.4542 289.212,173.204" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 74.8656,622.558 39.3948,587.088" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 74.8656,622.558 39.3948,587.088" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 114.14,649.542 103.767,649.426 102.486,649.178 101.39,648.639 99.7529,647.313 96.8055,644.448 74.8656,622.558" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 114.14,649.542 103.767,649.426 102.486,649.178 101.39,648.639 99.7529,647.313 96.8055,644.448 74.8656,622.558" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 464.083,849.395 501.556,811.923" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 464.083,849.395 501.556,811.923" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 355.305,403.365 415.94,463.999" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 355.305,403.365 415.94,463.999" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 351.666,961.813 389.138,924.34" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 351.666,961.813 389.138,924.34" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 426.611,886.868 464.083,849.395" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 426.611,886.868 464.083,849.395" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 389.138,924.34 426.611,886.868" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 389.138,924.34 426.611,886.868" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 289.212,258.954 289.355,335.682 289.711,336.991 290.441,338.232 294.671,342.731" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 289.212,258.954 289.355,335.682 289.711,336.991 290.441,338.232 294.671,342.731" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 294.671,342.731 355.305,403.365" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 294.671,342.731 355.305,403.365" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 577.89,619.161 577.89,619.161 599.75,640.974 603.608,644.561 613.83,644.742 613.83,644.742" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 577.89,619.161 577.89,619.161 599.75,640.974 603.608,644.561 613.83,644.742 613.83,644.742" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 575.629,621.426 575.629,621.426 597.504,643.253 600.395,646.067 601.855,647.261 602.602,647.636 603.518,647.821 613.792,647.942" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 575.629,621.426 575.629,621.426 597.504,643.253 600.395,646.067 601.855,647.261 602.602,647.636 603.518,647.821 613.792,647.942" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 573.369,623.691 595.258,645.533 598.263,648.457 600.102,649.961 601.548,650.688 603.18,651.017 613.755,651.142" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 573.369,623.691 595.258,645.533 598.263,648.457 600.102,649.961 601.548,650.688 603.18,651.017 613.755,651.142" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 571.109,625.956 593.012,647.812 596.13,650.847 598.35,652.662 600.494,653.74 602.842,654.214 613.717,654.342" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 571.109,625.956 593.012,647.812 596.13,650.847 598.35,652.662 600.494,653.74 602.842,654.214 613.717,654.342" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 370.06,631.148 353.679,647.413 352.303,648.541 350.981,649.166 349.57,649.409 344.503,649.492 302.074,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 370.06,631.148 353.679,647.413 352.303,648.541 350.981,649.166 349.57,649.409 344.503,649.492 302.074,649.542" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 423.317,577.891 370.06,631.148" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 423.317,577.891 370.06,631.148" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 312.487,735.272 269.622,692.407" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 312.487,735.272 269.622,692.407" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 957.172,649.542 1014.87,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 957.172,649.542 1014.87,649.542" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 899.477,649.542 957.172,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 899.477,649.542 957.172,649.542" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 841.782,649.542 899.477,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 841.782,649.542 899.477,649.542" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 478.408,774.45 417.788,774.45" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 478.408,774.45 417.788,774.45" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 651.446,412.216 688.918,374.743" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 651.446,412.216 688.918,374.743" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 726.391,866.25 726.391,789.123" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 726.391,866.25 726.391,789.123" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 357.168,774.45 352.701,774.191 351.776,773.876 350.894,773.357 312.487,735.272" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 357.168,774.45 352.701,774.191 351.776,773.876 350.894,773.357 312.487,735.272" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 417.788,774.45 357.168,774.45" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 417.788,774.45 357.168,774.45" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 726.391,943.376 726.391,866.25" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 726.391,943.376 726.391,866.25" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 788.845,1149.18 734.308,1094.64" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 788.845,1149.18 734.308,1094.64" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 734.308,1094.64 727.517,1087.54 726.833,1086.3 726.54,1084.99 726.411,1076.98 726.391,1020.5" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 734.308,1094.64 727.517,1087.54 726.833,1086.3 726.54,1084.99 726.411,1076.98 726.391,1020.5" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 726.391,1020.5 726.391,943.376" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 726.391,1020.5 726.391,943.376" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 768.125,293.275 810.99,250.41" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 768.125,293.275 810.99,250.41" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 770.387,295.537 813.252,252.672" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 770.387,295.537 813.252,252.672" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 643.119,670.36 622.301,691.178" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 643.119,670.36 622.301,691.178" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 726.391,462.179 726.391,524.634" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 726.391,462.179 726.391,524.634" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 726.391,399.725 726.391,462.179" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 726.391,399.725 726.391,462.179" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 849.699,146.241 849.699,85.6203" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 849.699,146.241 849.699,85.6203" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 852.899,146.241 852.899,85.6203" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 852.899,146.241 852.899,85.6203" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 849.699,85.6203 849.699,25" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 849.699,85.6203 849.699,25" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 852.899,85.6203 852.899,25" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 852.899,85.6203 852.899,25" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 613.973,449.688 651.446,412.216" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 613.973,449.688 651.446,412.216" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 576.501,487.161 613.973,449.688" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 576.501,487.161 613.973,449.688" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 810.985,250.414 848.901,212.19 849.444,211.053 849.702,206.765" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 810.985,250.414 848.901,212.19 849.444,211.053 849.702,206.765" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 813.257,252.668 851.446,214.169 852.16,212.98 852.612,211.692 852.896,206.957" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 813.257,252.668 851.446,214.169 852.16,212.98 852.612,211.692 852.896,206.957" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 849.699,206.861 849.699,146.241" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 849.699,206.861 849.699,146.241" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 852.899,206.861 852.899,146.241" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 852.899,206.861 852.899,146.241" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 539.028,462.179 539.028,493.406" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 539.028,462.179 539.028,493.406" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 1185.23,796.108 1226.02,836.904" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 1185.23,796.108 1226.02,836.904" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 784.086,649.542 841.782,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 784.086,649.542 841.782,649.542" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 1144.43,755.311 1185.23,796.108" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 1144.43,755.311 1185.23,796.108" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 1103.63,714.514 1144.43,755.311" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 1103.63,714.514 1144.43,755.311" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 1062.84,673.717 1103.63,714.514" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 1062.84,673.717 1103.63,714.514" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 1014.87,649.542 1036.19,649.597 1037.66,649.801 1038.73,650.204 1040,651.066 1041.6,652.53 1062.84,673.717" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 1014.87,649.542 1036.19,649.597 1037.66,649.801 1038.73,650.204 1040,651.066 1041.6,652.53 1062.84,673.717" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 101.849,711.996 133.076,680.769" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 101.849,711.996 133.076,680.769" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 485.399,531.195 508.933,554.729" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 485.399,531.195 508.933,554.729" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 483.136,533.458 506.67,556.992" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 483.136,533.458 506.67,556.992" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 415.94,463.999 470.691,518.75" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 415.94,463.999 470.691,518.75" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 468.881,532.327 423.317,577.891" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 468.881,532.327 423.317,577.891" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 269.622,692.407 228.794,651.578" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 269.622,692.407 228.794,651.578" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 302.074,649.542 229.637,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 302.074,649.542 229.637,649.542" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 725.712,335.687 768.125,293.275" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 725.712,335.687 768.125,293.275" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 727.975,337.95 770.387,295.537" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 727.975,337.95 770.387,295.537" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 688.918,374.743 724.354,339.307" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 688.918,374.743 724.354,339.307" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 726.391,340.151 726.391,399.725" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 726.391,340.151 726.391,399.725" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 726.391,524.634 726.391,586.448" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 726.391,524.634 726.391,586.448" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 725.486,587.993 695.164,618.315" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 725.486,587.993 695.164,618.315" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 539.028,493.406 539.028,521.754" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 539.028,493.406 539.028,521.754" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 541.065,522.597 576.501,487.161" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 541.065,522.597 576.501,487.161" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 724.791,710.716 724.791,680.769" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 724.791,710.716 724.791,680.769" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 727.991,710.716 727.991,680.769" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 727.991,710.716 727.991,680.769" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 726.391,789.123 726.391,713.276" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 726.391,789.123 726.391,713.276" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 604.363,711.996 725.111,711.996" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 604.363,711.996 725.111,711.996" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 622.301,691.178 603.519,709.96" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 622.301,691.178 603.519,709.96" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 226.117,651.142 173.903,651.142" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 226.117,651.142 173.903,651.142" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 226.117,647.942 173.903,647.942" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 226.117,647.942 173.903,647.942" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 133.076,680.769 157.515,656.33" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 133.076,680.769 157.515,656.33" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 155.983,649.542 114.14,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 155.983,649.542 114.14,649.542" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 543.328,584.599 577.893,619.164 577.893,619.164" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 543.328,584.599 577.893,619.164 577.893,619.164" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 541.065,586.861 575.63,621.427" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 541.065,586.861 575.63,621.427" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 538.802,589.124 573.368,623.69" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 538.802,589.124 573.368,623.69" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 536.539,591.387 571.105,625.953" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 536.539,591.387 571.105,625.953" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 540.628,525.274 540.628,581.008" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 540.628,525.274 540.628,581.008" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 537.428,525.274 537.428,581.008" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 537.428,525.274 537.428,581.008" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 508.933,554.729 535.861,581.657" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 508.933,554.729 535.861,581.657" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 506.67,556.992 533.598,583.92" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 506.67,556.992 533.598,583.92" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 602.161,713.58 540.612,775.129" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 602.161,713.58 540.612,775.129" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 599.899,711.317 538.35,772.866" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 599.899,711.317 538.35,772.866" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 536.148,774.45 478.408,774.45" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 536.148,774.45 478.408,774.45" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 501.556,811.923 536.992,776.487" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 501.556,811.923 536.992,776.487" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 724.791,680.769 724.791,652.422" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 724.791,680.769 724.791,652.422" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 727.991,680.769 727.991,652.422" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 727.991,680.769 727.991,652.422" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 727.671,649.542 784.086,649.542" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 727.671,649.542 784.086,649.542" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 726.391,648.262 726.391,588.368" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 726.391,648.262 726.391,588.368" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 666.817,644.742 723.511,644.742" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 666.817,644.742 723.511,644.742" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 666.817,647.942 723.511,647.942" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 666.817,647.942 723.511,647.942" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 666.817,651.142 723.511,651.142" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 666.817,651.142 723.511,651.142" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 666.817,654.342 723.511,654.342" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 666.817,654.342 723.511,654.342" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-5" points=" 613.774,644.742 661.057,644.742" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-5" points=" 613.774,644.742 661.057,644.742" style="fill:none;stroke:#ea5297;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-4" points=" 613.774,647.942 661.057,647.942" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-4" points=" 613.774,647.942 661.057,647.942" style="fill:none;stroke:#13a538;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-3" points=" 613.774,651.142 661.057,651.142" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-3" points=" 613.774,651.142 661.057,651.142" style="fill:none;stroke:#f59e00;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-2" points=" 613.774,654.342 661.057,654.342" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-2" points=" 613.774,654.342 661.057,654.342" style="fill:none;stroke:#e8001b;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 661.9,651.578 643.119,670.36" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 661.9,651.578 643.119,670.36" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class="transit-edge-outline line-1" points=" 695.164,618.315 665.973,647.505" style="fill:none;stroke:#000000;stroke-linecap:round;stroke-width:2.1;" />
+        <polyline class="transit-edge line-1" points=" 695.164,618.315 665.973,647.505" style="fill:none;stroke:#0000ff;;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 289.212,258.954 289.212,258.954" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 289.212,258.954 289.212,258.954" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 468.881,532.327 469.131,532.083 469.386,531.847 469.646,531.617 469.912,531.394 470.182,531.178 470.457,530.969 470.737,530.768 471.021,530.573 471.309,530.387 471.6,530.207 471.896,530.035 472.194,529.871 472.496,529.714 472.801,529.565 473.109,529.424 473.42,529.291 473.732,529.166 474.047,529.049 474.364,528.941 474.683,528.84 475.003,528.748 475.325,528.664 475.648,528.589 475.971,528.522 476.296,528.464 476.621,528.415 476.946,528.374 477.272,528.343 477.597,528.32 477.922,528.306 478.247,528.302 478.571,528.307 478.894,528.321 479.216,528.344 479.536,528.377 479.855,528.42 480.173,528.472 480.488,528.534 480.801,528.606 481.112,528.687 481.42,528.779 481.726,528.88 482.028,528.992 482.328,529.113 482.624,529.246 482.916,529.388 483.205,529.541 483.489,529.704 483.77,529.878 484.046,530.063 484.317,530.258 484.584,530.464 484.845,530.682 485.101,530.91 485.352,531.149 485.399,531.195" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 468.881,532.327 469.131,532.083 469.386,531.847 469.646,531.617 469.912,531.394 470.182,531.178 470.457,530.969 470.737,530.768 471.021,530.573 471.309,530.387 471.6,530.207 471.896,530.035 472.194,529.871 472.496,529.714 472.801,529.565 473.109,529.424 473.42,529.291 473.732,529.166 474.047,529.049 474.364,528.941 474.683,528.84 475.003,528.748 475.325,528.664 475.648,528.589 475.971,528.522 476.296,528.464 476.621,528.415 476.946,528.374 477.272,528.343 477.597,528.32 477.922,528.306 478.247,528.302 478.571,528.307 478.894,528.321 479.216,528.344 479.536,528.377 479.855,528.42 480.173,528.472 480.488,528.534 480.801,528.606 481.112,528.687 481.42,528.779 481.726,528.88 482.028,528.992 482.328,529.113 482.624,529.246 482.916,529.388 483.205,529.541 483.489,529.704 483.77,529.878 484.046,530.063 484.317,530.258 484.584,530.464 484.845,530.682 485.101,530.91 485.352,531.149 485.399,531.195" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 470.691,518.75 471.034,519.095 471.362,519.428 471.677,519.751 471.979,520.064 472.268,520.367 472.545,520.66 472.81,520.944 473.063,521.219 473.305,521.485 473.537,521.744 473.759,521.995 473.971,522.238 474.174,522.474 474.369,522.704 474.555,522.927 474.733,523.144 474.904,523.355 475.069,523.562 475.226,523.763 475.378,523.959 475.524,524.151 475.666,524.34 475.802,524.525 475.935,524.706 476.064,524.885 476.189,525.061 476.312,525.235 476.433,525.407 476.551,525.578 476.669,525.748 476.785,525.917 476.901,526.086 477.016,526.254 477.133,526.423 477.25,526.593 477.368,526.763 477.488,526.935 477.61,527.109 477.735,527.284 477.863,527.463 477.995,527.643 478.131,527.828 478.271,528.015 478.416,528.206 478.567,528.402 478.723,528.602 478.886,528.807 479.055,529.017 479.232,529.233 479.416,529.455 479.609,529.683 479.81,529.918 480.02,530.159 480.24,530.408 480.47,530.665 480.71,530.93 480.96,531.203 481.223,531.485 481.497,531.776 481.783,532.077 482.082,532.387 482.394,532.708 482.719,533.039 483.059,533.381 483.136,533.458" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 470.691,518.75 471.034,519.095 471.362,519.428 471.677,519.751 471.979,520.064 472.268,520.367 472.545,520.66 472.81,520.944 473.063,521.219 473.305,521.485 473.537,521.744 473.759,521.995 473.971,522.238 474.174,522.474 474.369,522.704 474.555,522.927 474.733,523.144 474.904,523.355 475.069,523.562 475.226,523.763 475.378,523.959 475.524,524.151 475.666,524.34 475.802,524.525 475.935,524.706 476.064,524.885 476.189,525.061 476.312,525.235 476.433,525.407 476.551,525.578 476.669,525.748 476.785,525.917 476.901,526.086 477.016,526.254 477.133,526.423 477.25,526.593 477.368,526.763 477.488,526.935 477.61,527.109 477.735,527.284 477.863,527.463 477.995,527.643 478.131,527.828 478.271,528.015 478.416,528.206 478.567,528.402 478.723,528.602 478.886,528.807 479.055,529.017 479.232,529.233 479.416,529.455 479.609,529.683 479.81,529.918 480.02,530.159 480.24,530.408 480.47,530.665 480.71,530.93 480.96,531.203 481.223,531.485 481.497,531.776 481.783,532.077 482.082,532.387 482.394,532.708 482.719,533.039 483.059,533.381 483.136,533.458" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 539.028,462.179 539.028,462.179" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 539.028,462.179 539.028,462.179" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 229.637,649.542 229.191,649.515 228.833,649.438 228.545,649.322 228.313,649.175 228.12,649.006 227.95,648.825 227.787,648.639 227.615,648.458 227.418,648.291 227.181,648.147 226.886,648.035 226.518,647.964 226.117,647.942" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 229.637,649.542 229.191,649.515 228.833,649.438 228.545,649.322 228.313,649.175 228.12,649.006 227.95,648.825 227.787,648.639 227.615,648.458 227.418,648.291 227.181,648.147 226.886,648.035 226.518,647.964 226.117,647.942" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 226.117,651.142 226.397,651.139 226.705,651.133 227.033,651.132 227.368,651.141 227.701,651.167 228.02,651.217 228.314,651.296 228.573,651.412 228.787,651.571 228.794,651.578" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 226.117,651.142 226.397,651.139 226.705,651.133 227.033,651.132 227.368,651.141 227.701,651.167 228.02,651.217 228.314,651.296 228.573,651.412 228.787,651.571 228.794,651.578" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 370.06,631.148 370.06,631.148" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 370.06,631.148 370.06,631.148" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 464.083,849.395 464.083,849.395" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 464.083,849.395 464.083,849.395" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 622.301,691.178 622.301,691.178" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 622.301,691.178 622.301,691.178" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 724.791,652.422 724.745,652.084 724.617,651.78 724.419,651.522 724.162,651.321 723.859,651.19 723.523,651.142 723.511,651.142" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 724.791,652.422 724.745,652.084 724.617,651.78 724.419,651.522 724.162,651.321 723.859,651.19 723.523,651.142 723.511,651.142" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 727.991,652.422 727.978,652.075 727.938,651.735 727.873,651.403 727.785,651.081 727.673,650.768 727.539,650.466 727.384,650.177 727.208,649.9 727.014,649.637 726.801,649.39 726.572,649.158 726.326,648.943 726.065,648.747 725.79,648.569 725.502,648.411 725.201,648.275 724.89,648.16 724.568,648.069 724.237,648.001 723.899,647.959 723.552,647.942 723.511,647.942" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 727.991,652.422 727.978,652.075 727.938,651.735 727.873,651.403 727.785,651.081 727.673,650.768 727.539,650.466 727.384,650.177 727.208,649.9 727.014,649.637 726.801,649.39 726.572,649.158 726.326,648.943 726.065,648.747 725.79,648.569 725.502,648.411 725.201,648.275 724.89,648.16 724.568,648.069 724.237,648.001 723.899,647.959 723.552,647.942 723.511,647.942" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 726.391,648.262 726.385,648.65 726.367,648.84 726.333,648.858 726.28,648.729 726.205,648.477 726.105,648.129 725.977,647.707 725.818,647.239 725.626,646.749 725.396,646.261 725.127,645.802 724.814,645.395 724.456,645.067 724.049,644.841 723.589,644.744 723.511,644.742" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 726.391,648.262 726.385,648.65 726.367,648.84 726.333,648.858 726.28,648.729 726.205,648.477 726.105,648.129 725.977,647.707 725.818,647.239 725.626,646.749 725.396,646.261 725.127,645.802 724.814,645.395 724.456,645.067 724.049,644.841 723.589,644.744 723.511,644.742" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 727.671,649.542 727.217,649.573 726.839,649.662 726.531,649.804 726.282,649.991 726.087,650.219 725.936,650.48 725.822,650.769 725.736,651.08 725.671,651.406 725.619,651.743 725.571,652.082 725.52,652.42 725.458,652.748 725.377,653.063 725.268,653.356 725.124,653.622 724.937,653.856 724.698,654.051 724.4,654.201 724.035,654.299 723.595,654.341 723.511,654.342" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 727.671,649.542 727.217,649.573 726.839,649.662 726.531,649.804 726.282,649.991 726.087,650.219 725.936,650.48 725.822,650.769 725.736,651.08 725.671,651.406 725.619,651.743 725.571,652.082 725.52,652.42 725.458,652.748 725.377,653.063 725.268,653.356 725.124,653.622 724.937,653.856 724.698,654.051 724.4,654.201 724.035,654.299 723.595,654.341 723.511,654.342" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 506.67,556.992 506.67,556.992" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 506.67,556.992 506.67,556.992" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-3" points=" 508.933,554.729 508.933,554.729" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 508.933,554.729 508.933,554.729" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 770.387,295.537 770.387,295.537" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 770.387,295.537 770.387,295.537" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 768.125,293.275 768.125,293.275" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 768.125,293.275 768.125,293.275" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 539.028,430.952 539.028,430.952" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 539.028,430.952 539.028,430.952" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 727.975,337.95 727.775,338.145 727.553,338.359 727.32,338.59 727.09,338.833 726.873,339.087 726.683,339.348 726.531,339.612 726.429,339.878 726.391,340.141 726.391,340.151" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 727.975,337.95 727.775,338.145 727.553,338.359 727.32,338.59 727.09,338.833 726.873,339.087 726.683,339.348 726.531,339.612 726.429,339.878 726.391,340.141 726.391,340.151" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 725.712,335.687 725.416,336.022 725.216,336.329 725.095,336.615 725.035,336.883 725.018,337.139 725.026,337.388 725.042,337.634 725.049,337.884 725.028,338.141 724.961,338.411 724.832,338.698 724.623,339.009 724.354,339.307" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 725.712,335.687 725.416,336.022 725.216,336.329 725.095,336.615 725.035,336.883 725.018,337.139 725.026,337.388 725.042,337.634 725.049,337.884 725.028,338.141 724.961,338.411 724.832,338.698 724.623,339.009 724.354,339.307" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 726.391,588.368 726.391,586.448" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 726.391,588.368 726.391,586.448" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 725.486,587.993 725.798,587.68 726.076,587.403 726.283,587.196 726.386,587.093 726.391,587.088" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 725.486,587.993 725.798,587.68 726.076,587.403 726.283,587.196 726.386,587.093 726.391,587.088" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 541.065,522.597 540.714,522.905 540.363,523.139 540.016,523.31 539.676,523.432 539.347,523.518 539.032,523.581 538.736,523.634 538.46,523.69 538.21,523.762 537.988,523.862 537.798,524.004 537.643,524.201 537.528,524.465 537.455,524.81 537.428,525.249 537.428,525.274" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 541.065,522.597 540.714,522.905 540.363,523.139 540.016,523.31 539.676,523.432 539.347,523.518 539.032,523.581 538.736,523.634 538.46,523.69 538.21,523.762 537.988,523.862 537.798,524.004 537.643,524.201 537.528,524.465 537.455,524.81 537.428,525.249 537.428,525.274" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 540.628,525.274 540.601,524.828 540.525,524.469 540.409,524.181 540.262,523.949 540.093,523.756 539.911,523.586 539.725,523.423 539.544,523.251 539.377,523.054 539.233,522.817 539.121,522.522 539.05,522.154 539.028,521.754" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 540.628,525.274 540.601,524.828 540.525,524.469 540.409,524.181 540.262,523.949 540.093,523.756 539.911,523.586 539.725,523.423 539.544,523.251 539.377,523.054 539.233,522.817 539.121,522.522 539.05,522.154 539.028,521.754" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 727.991,710.716 727.947,711.144 727.826,711.457 727.649,711.684 727.433,711.853 727.198,711.992 726.963,712.13 726.745,712.296 726.565,712.518 726.441,712.825 726.391,713.245 726.391,713.276" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 727.991,710.716 727.947,711.144 727.826,711.457 727.649,711.684 727.433,711.853 727.198,711.992 726.963,712.13 726.745,712.296 726.565,712.518 726.441,712.825 726.391,713.245 726.391,713.276" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 724.791,710.716 724.92,711.18 725.111,711.468" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 724.791,710.716 724.92,711.18 725.111,711.468" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 289.212,173.204 289.212,173.204" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 289.212,173.204 289.212,173.204" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 613.774,644.742 613.83,644.742" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 613.774,644.742 613.83,644.742" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-2" points=" 613.774,654.342 613.717,654.342" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 613.774,654.342 613.717,654.342" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-3" points=" 613.774,651.142 613.755,651.142" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 613.774,651.142 613.755,651.142" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 613.774,647.942 613.792,647.942" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 613.774,647.942 613.792,647.942" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 74.8656,622.558 74.8656,622.558" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 74.8656,622.558 74.8656,622.558" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 114.14,649.542 114.14,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 114.14,649.542 114.14,649.542" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 501.556,811.923 501.556,811.923" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 501.556,811.923 501.556,811.923" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 576.501,487.161 576.501,487.161" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 576.501,487.161 576.501,487.161" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 415.94,463.999 415.94,463.999" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 415.94,463.999 415.94,463.999" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 724.791,680.769 724.791,680.769" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 724.791,680.769 724.791,680.769" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 727.991,680.769 727.991,680.769" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 727.991,680.769 727.991,680.769" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 355.305,403.365 355.305,403.365" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 355.305,403.365 355.305,403.365" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 389.138,924.34 389.138,924.34" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 389.138,924.34 389.138,924.34" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 603.519,709.96 603.184,710.256 602.877,710.455 602.591,710.577 602.323,710.637 602.067,710.654 601.818,710.646 601.572,710.63 601.322,710.623 601.065,710.644 600.795,710.71 600.508,710.84 600.198,711.049 599.899,711.317" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 603.519,709.96 603.184,710.256 602.877,710.455 602.591,710.577 602.323,710.637 602.067,710.654 601.818,710.646 601.572,710.63 601.322,710.623 601.065,710.644 600.795,710.71 600.508,710.84 600.198,711.049 599.899,711.317" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 602.161,713.58 602.356,713.38 602.571,713.158 602.801,712.926 603.045,712.695 603.299,712.478 603.559,712.288 603.824,712.136 604.089,712.035 604.352,711.996 604.363,711.996" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 602.161,713.58 602.356,713.38 602.571,713.158 602.801,712.926 603.045,712.695 603.299,712.478 603.559,712.288 603.824,712.136 604.089,712.035 604.352,711.996 604.363,711.996" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 478.408,774.45 478.408,774.45" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 478.408,774.45 478.408,774.45" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 426.611,886.868 426.611,886.868" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 426.611,886.868 426.611,886.868" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 294.671,342.731 294.671,342.731" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 294.671,342.731 294.671,342.731" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 577.89,619.161 577.893,619.164" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 577.89,619.161 577.893,619.164" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-2" points=" 571.109,625.956 571.105,625.953" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 571.109,625.956 571.105,625.953" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-3" points=" 573.369,623.691 573.368,623.69" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 573.369,623.691 573.368,623.69" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 575.629,621.426 575.63,621.427" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 575.629,621.426 575.63,621.427" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 695.164,618.315 695.164,618.315" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 695.164,618.315 695.164,618.315" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 302.074,649.542 302.074,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 302.074,649.542 302.074,649.542" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 423.317,577.891 423.317,577.891" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 423.317,577.891 423.317,577.891" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 651.446,412.216 651.446,412.216" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 651.446,412.216 651.446,412.216" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 312.487,735.272 312.487,735.272" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 312.487,735.272 312.487,735.272" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 269.622,692.407 269.622,692.407" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 269.622,692.407 269.622,692.407" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 1014.87,649.542 1014.87,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 1014.87,649.542 1014.87,649.542" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 957.172,649.542 957.172,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 957.172,649.542 957.172,649.542" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 899.477,649.542 899.477,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 899.477,649.542 899.477,649.542" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 841.782,649.542 841.782,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 841.782,649.542 841.782,649.542" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 417.788,774.45 417.788,774.45" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 417.788,774.45 417.788,774.45" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 726.391,789.123 726.391,789.123" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 726.391,789.123 726.391,789.123" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 688.918,374.743 688.918,374.743" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 688.918,374.743 688.918,374.743" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 726.391,524.634 726.391,524.634" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 726.391,524.634 726.391,524.634" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 726.391,866.25 726.391,866.25" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 726.391,866.25 726.391,866.25" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 357.168,774.45 357.168,774.45" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 357.168,774.45 357.168,774.45" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 726.391,943.376 726.391,943.376" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 726.391,943.376 726.391,943.376" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 734.308,1094.64 734.308,1094.64" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 734.308,1094.64 734.308,1094.64" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 173.903,647.942 173.635,647.945 173.364,647.956 173.091,647.974 172.816,647.998 172.539,648.029 172.26,648.067 171.979,648.111 171.696,648.161 171.412,648.218 171.126,648.28 170.839,648.348 170.551,648.422 170.262,648.502 169.972,648.587 169.681,648.677 169.389,648.773 169.097,648.874 168.805,648.979 168.512,649.089 168.219,649.204 167.926,649.324 167.632,649.448 167.34,649.576 167.047,649.708 166.755,649.844 166.463,649.984 166.173,650.128 165.883,650.276 165.593,650.426 165.305,650.58 165.019,650.738 164.733,650.898 164.449,651.061 164.166,651.227 163.886,651.396 163.607,651.567 163.329,651.74 163.054,651.916 162.782,652.094 162.511,652.273 162.243,652.455 161.977,652.638 161.715,652.823 161.455,653.009 161.197,653.197 160.943,653.385 160.693,653.575 160.445,653.765 160.201,653.957 159.96,654.148 159.723,654.341 159.49,654.533 159.261,654.726 159.036,654.919 158.815,655.112 158.599,655.305 158.387,655.497 158.179,655.689 157.976,655.88 157.778,656.071 157.585,656.261 157.515,656.33" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 173.903,647.942 173.635,647.945 173.364,647.956 173.091,647.974 172.816,647.998 172.539,648.029 172.26,648.067 171.979,648.111 171.696,648.161 171.412,648.218 171.126,648.28 170.839,648.348 170.551,648.422 170.262,648.502 169.972,648.587 169.681,648.677 169.389,648.773 169.097,648.874 168.805,648.979 168.512,649.089 168.219,649.204 167.926,649.324 167.632,649.448 167.34,649.576 167.047,649.708 166.755,649.844 166.463,649.984 166.173,650.128 165.883,650.276 165.593,650.426 165.305,650.58 165.019,650.738 164.733,650.898 164.449,651.061 164.166,651.227 163.886,651.396 163.607,651.567 163.329,651.74 163.054,651.916 162.782,652.094 162.511,652.273 162.243,652.455 161.977,652.638 161.715,652.823 161.455,653.009 161.197,653.197 160.943,653.385 160.693,653.575 160.445,653.765 160.201,653.957 159.96,654.148 159.723,654.341 159.49,654.533 159.261,654.726 159.036,654.919 158.815,655.112 158.599,655.305 158.387,655.497 158.179,655.689 157.976,655.88 157.778,656.071 157.585,656.261 157.515,656.33" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 173.903,651.142 173.418,651.141 172.952,651.137 172.504,651.13 172.073,651.122 171.66,651.11 171.263,651.097 170.882,651.082 170.515,651.064 170.164,651.045 169.826,651.023 169.501,651 169.188,650.975 168.887,650.949 168.597,650.921 168.318,650.892 168.049,650.861 167.788,650.829 167.537,650.796 167.293,650.762 167.056,650.727 166.826,650.691 166.602,650.654 166.382,650.616 166.168,650.578 165.957,650.54 165.75,650.5 165.545,650.461 165.343,650.421 165.141,650.381 164.94,650.341 164.739,650.301 164.538,650.261 164.335,650.222 164.13,650.182 163.923,650.143 163.712,650.104 163.498,650.066 163.278,650.029 163.054,649.992 162.824,649.956 162.587,649.921 162.342,649.887 162.09,649.854 161.83,649.822 161.56,649.791 161.281,649.762 160.991,649.734 160.69,649.708 160.377,649.683 160.051,649.66 159.713,649.639 159.361,649.619 158.994,649.602 158.612,649.586 158.215,649.573 157.801,649.562 157.37,649.553 156.922,649.547 156.455,649.543 155.983,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 173.903,651.142 173.418,651.141 172.952,651.137 172.504,651.13 172.073,651.122 171.66,651.11 171.263,651.097 170.882,651.082 170.515,651.064 170.164,651.045 169.826,651.023 169.501,651 169.188,650.975 168.887,650.949 168.597,650.921 168.318,650.892 168.049,650.861 167.788,650.829 167.537,650.796 167.293,650.762 167.056,650.727 166.826,650.691 166.602,650.654 166.382,650.616 166.168,650.578 165.957,650.54 165.75,650.5 165.545,650.461 165.343,650.421 165.141,650.381 164.94,650.341 164.739,650.301 164.538,650.261 164.335,650.222 164.13,650.182 163.923,650.143 163.712,650.104 163.498,650.066 163.278,650.029 163.054,649.992 162.824,649.956 162.587,649.921 162.342,649.887 162.09,649.854 161.83,649.822 161.56,649.791 161.281,649.762 160.991,649.734 160.69,649.708 160.377,649.683 160.051,649.66 159.713,649.639 159.361,649.619 158.994,649.602 158.612,649.586 158.215,649.573 157.801,649.562 157.37,649.553 156.922,649.547 156.455,649.543 155.983,649.542" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 726.391,399.725 726.391,399.725" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 726.391,399.725 726.391,399.725" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 726.391,1020.5 726.391,1020.5" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 726.391,1020.5 726.391,1020.5" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 813.252,252.672 813.257,252.668" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 813.252,252.672 813.257,252.668" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 810.99,250.41 810.985,250.414" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 810.99,250.41 810.985,250.414" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 852.899,146.241 852.899,146.241" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 852.899,146.241 852.899,146.241" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 849.699,146.241 849.699,146.241" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 849.699,146.241 849.699,146.241" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 533.598,583.92 533.922,584.262 534.195,584.59 534.424,584.904 534.61,585.205 534.759,585.496 534.874,585.777 534.959,586.048 535.018,586.313 535.056,586.57 535.077,586.823 535.083,587.072 535.081,587.318 535.072,587.562 535.062,587.806 535.055,588.05 535.054,588.296 535.064,588.546 535.088,588.8 535.131,589.059 535.197,589.325 535.289,589.599 535.412,589.882 535.57,590.175 535.766,590.48 536.005,590.797 536.291,591.128 536.539,591.387" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 533.598,583.92 533.922,584.262 534.195,584.59 534.424,584.904 534.61,585.205 534.759,585.496 534.874,585.777 534.959,586.048 535.018,586.313 535.056,586.57 535.077,586.823 535.083,587.072 535.081,587.318 535.072,587.562 535.062,587.806 535.055,588.05 535.054,588.296 535.064,588.546 535.088,588.8 535.131,589.059 535.197,589.325 535.289,589.599 535.412,589.882 535.57,590.175 535.766,590.48 536.005,590.797 536.291,591.128 536.539,591.387" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-3" points=" 535.861,581.657 536.184,581.999 536.458,582.327 536.686,582.641 536.873,582.943 537.021,583.233 537.136,583.514 537.222,583.786 537.281,584.05 537.319,584.308 537.339,584.56 537.346,584.809 537.343,585.055 537.335,585.299 537.325,585.543 537.318,585.787 537.317,586.034 537.327,586.283 537.351,586.537 537.394,586.796 537.46,587.062 537.552,587.336 537.675,587.619 537.832,587.912 538.029,588.217 538.268,588.534 538.554,588.865 538.802,589.124" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 535.861,581.657 536.184,581.999 536.458,582.327 536.686,582.641 536.873,582.943 537.021,583.233 537.136,583.514 537.222,583.786 537.281,584.05 537.319,584.308 537.339,584.56 537.346,584.809 537.343,585.055 537.335,585.299 537.325,585.543 537.318,585.787 537.317,586.034 537.327,586.283 537.351,586.537 537.394,586.796 537.46,587.062 537.552,587.336 537.675,587.619 537.832,587.912 538.029,588.217 538.268,588.534 538.554,588.865 538.802,589.124" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 540.628,581.008 540.651,581.268 540.717,581.53 540.822,581.792 540.96,582.053 541.126,582.313 541.317,582.57 541.527,582.824 541.751,583.072 541.986,583.316 542.225,583.552 542.465,583.782 542.7,584.002 542.926,584.214 543.139,584.414 543.328,584.599" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 540.628,581.008 540.651,581.268 540.717,581.53 540.822,581.792 540.96,582.053 541.126,582.313 541.317,582.57 541.527,582.824 541.751,583.072 541.986,583.316 542.225,583.552 542.465,583.782 542.7,584.002 542.926,584.214 543.139,584.414 543.328,584.599" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 537.428,581.008 537.441,581.274 537.477,581.544 537.535,581.817 537.613,582.092 537.711,582.369 537.827,582.646 537.958,582.924 538.105,583.202 538.265,583.478 538.436,583.753 538.618,584.026 538.809,584.295 539.007,584.561 539.211,584.822 539.42,585.078 539.631,585.329 539.844,585.573 540.057,585.81 540.269,586.039 540.477,586.26 540.681,586.473 540.879,586.675 541.065,586.861" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 537.428,581.008 537.441,581.274 537.477,581.544 537.535,581.817 537.613,582.092 537.711,582.369 537.827,582.646 537.958,582.924 538.105,583.202 538.265,583.478 538.436,583.753 538.618,584.026 538.809,584.295 539.007,584.561 539.211,584.822 539.42,585.078 539.631,585.329 539.844,585.573 540.057,585.81 540.269,586.039 540.477,586.26 540.681,586.473 540.879,586.675 541.065,586.861" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 643.119,670.36 643.119,670.36" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 643.119,670.36 643.119,670.36" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 726.391,462.179 726.391,462.179" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 726.391,462.179 726.391,462.179" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 852.899,85.6203 852.899,85.6203" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 852.899,85.6203 852.899,85.6203" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 849.699,85.6203 849.699,85.6203" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 849.699,85.6203 849.699,85.6203" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-4" points=" 613.973,449.688 613.973,449.688" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 613.973,449.688 613.973,449.688" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 852.899,206.861 852.896,206.957" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 852.899,206.861 852.896,206.957" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 849.699,206.861 849.702,206.765" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 849.699,206.861 849.702,206.765" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 661.057,644.742 666.817,644.742" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 661.057,644.742 666.817,644.742" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-2" points=" 661.057,654.342 666.817,654.342" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 661.057,654.342 666.817,654.342" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-3" points=" 661.057,651.142 666.817,651.142" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 661.057,651.142 666.817,651.142" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+        <polyline class=" inner-geom-outline line-4" points=" 661.057,647.942 666.817,647.942" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-4" points=" 661.057,647.942 666.817,647.942" style="fill:none;stroke:#13a538;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 665.973,647.505 665.793,647.686 665.602,647.877 665.401,648.077 665.193,648.285 664.978,648.5 664.758,648.721 664.533,648.946 664.305,649.174 664.075,649.404 663.844,649.634 663.614,649.864 663.386,650.093 663.16,650.318 662.939,650.54 662.723,650.756 662.513,650.966 662.311,651.167 662.118,651.36 661.935,651.543 661.9,651.578" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 665.973,647.505 665.793,647.686 665.602,647.877 665.401,648.077 665.193,648.285 664.978,648.5 664.758,648.721 664.533,648.946 664.305,649.174 664.075,649.404 663.844,649.634 663.614,649.864 663.386,650.093 663.16,650.318 662.939,650.54 662.723,650.756 662.513,650.966 662.311,651.167 662.118,651.36 661.935,651.543 661.9,651.578" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 536.992,776.487 537.327,776.191 537.634,775.991 537.92,775.87 538.188,775.809 538.444,775.792 538.693,775.801 538.939,775.817 539.188,775.823 539.446,775.802 539.715,775.736 540.003,775.607 540.313,775.397 540.612,775.129" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 536.992,776.487 537.327,776.191 537.634,775.991 537.92,775.87 538.188,775.809 538.444,775.792 538.693,775.801 538.939,775.817 539.188,775.823 539.446,775.802 539.715,775.736 540.003,775.607 540.313,775.397 540.612,775.129" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-1" points=" 538.35,772.866 538.154,773.066 537.94,773.288 537.71,773.521 537.466,773.752 537.212,773.968 536.952,774.159 536.687,774.31 536.422,774.412 536.159,774.45 536.148,774.45" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-1" points=" 538.35,772.866 538.154,773.066 537.94,773.288 537.71,773.521 537.466,773.752 537.212,773.968 536.952,774.159 536.687,774.31 536.422,774.412 536.159,774.45 536.148,774.45" style="fill:none;stroke:#0000ff;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-5" points=" 539.028,493.406 539.028,493.406" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-5" points=" 539.028,493.406 539.028,493.406" style="fill:none;stroke:#ea5297;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 1185.23,796.108 1185.23,796.108" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 1185.23,796.108 1185.23,796.108" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 784.086,649.542 784.086,649.542" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 784.086,649.542 784.086,649.542" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 1144.43,755.311 1144.43,755.311" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 1144.43,755.311 1144.43,755.311" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 1103.63,714.514 1103.63,714.514" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 1103.63,714.514 1103.63,714.514" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-2" points=" 1062.84,673.717 1062.84,673.717" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-2" points=" 1062.84,673.717 1062.84,673.717" style="fill:none;stroke:#e8001b;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polyline class=" inner-geom-outline line-3" points=" 133.076,680.769 133.076,680.769" style="fill:none;stroke:#000000;stroke-linecap:butt;stroke-width:2.1" />
+        <polyline class=" inner-geom  line-3" points=" 133.076,680.769 133.076,680.769" style="fill:none;stroke:#f59e00;stroke-linecap:round;stroke-opacity:1;stroke-width:2" />
+    </g>
+    <g>
+        <polygon class="station-poly" fill="white" points=" 285.928,259.532 286.097,260.087 286.37,260.599 286.739,261.047 287.187,261.415 287.699,261.689 288.254,261.857 288.832,261.914 289.592,261.914 290.169,261.857 290.724,261.688 291.236,261.415 291.685,261.047 292.053,260.598 292.326,260.086 292.495,259.531 292.552,258.954 292.495,258.376 292.326,257.821 292.053,257.309 291.685,256.861 291.236,256.492 290.724,256.219 290.169,256.05 289.592,255.994 288.832,255.994 288.254,256.051 287.699,256.22 287.187,256.493 286.739,256.861 286.37,257.31 286.097,257.822 285.928,258.377 285.872,258.954" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 845.596,25.6775 845.765,26.2327 846.038,26.7445 846.406,27.193 846.855,27.5612 847.367,27.8347 847.922,28.0031 848.499,28.06 854.099,28.06 854.677,28.0031 855.232,27.8347 855.744,27.5612 856.192,27.193 856.56,26.7445 856.834,26.2327 857.002,25.6775 857.059,25.1 857.059,24.9 857.002,24.3225 856.834,23.7673 856.56,23.2555 856.192,22.807 855.744,22.4388 855.232,22.1653 854.677,21.9969 854.099,21.94 848.499,21.94 847.922,21.9969 847.367,22.1653 846.855,22.4388 846.406,22.807 846.038,23.2555 845.765,23.7673 845.596,24.3225 845.539,24.9 845.539,25.1" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 535.745,462.757 535.914,463.312 536.187,463.824 536.555,464.272 537.004,464.64 537.516,464.914 538.071,465.082 538.648,465.139 539.408,465.139 539.986,465.082 540.541,464.914 541.053,464.64 541.501,464.272 541.869,463.824 542.143,463.312 542.311,462.757 542.368,462.179 542.311,461.602 542.143,461.047 541.869,460.535 541.501,460.086 541.053,459.718 540.541,459.445 539.986,459.276 539.408,459.219 538.648,459.219 538.071,459.276 537.516,459.445 537.004,459.718 536.555,460.086 536.187,460.535 535.914,461.047 535.745,461.602 535.688,462.179" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 224.694,651.454 224.863,652.009 225.136,652.521 225.504,652.969 225.953,653.337 226.465,653.611 227.02,653.779 227.597,653.836 228.157,653.836 228.735,653.779 229.29,653.611 229.802,653.337 230.25,652.969 230.619,652.521 230.892,652.009 231.061,651.454 231.117,650.876 231.117,648.322 231.061,647.744 230.892,647.189 230.619,646.677 230.25,646.229 229.802,645.861 229.29,645.587 228.735,645.419 228.157,645.362 227.597,645.362 227.02,645.419 226.465,645.587 225.953,645.861 225.504,646.229 225.136,646.677 224.863,647.189 224.694,647.744 224.637,648.322 224.637,650.876" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 366.889,631.456 367.057,632.011 367.331,632.523 367.699,632.972 368.235,633.51 368.684,633.878 369.196,634.152 369.751,634.32 370.328,634.377 370.906,634.32 371.461,634.152 371.973,633.878 372.421,633.51 372.789,633.061 373.063,632.55 373.231,631.994 373.288,631.417 373.231,630.839 373.063,630.284 372.789,629.772 372.421,629.324 371.885,628.785 371.436,628.417 370.925,628.144 370.369,627.975 369.792,627.918 369.214,627.975 368.659,628.144 368.147,628.417 367.699,628.785 367.331,629.234 367.057,629.746 366.889,630.301 366.832,630.878" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 460.911,849.704 461.08,850.259 461.353,850.771 461.722,851.22 462.259,851.757 462.708,852.125 463.219,852.399 463.775,852.567 464.352,852.624 464.929,852.567 465.485,852.399 465.997,852.125 466.445,851.757 466.813,851.309 467.087,850.797 467.255,850.241 467.312,849.664 467.255,849.087 467.087,848.531 466.813,848.02 466.445,847.571 465.908,847.034 465.459,846.665 464.947,846.392 464.392,846.223 463.815,846.167 463.237,846.223 462.682,846.392 462.17,846.665 461.722,847.034 461.353,847.482 461.08,847.994 460.911,848.549 460.855,849.127" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 619.129,691.487 619.297,692.042 619.571,692.554 619.939,693.002 620.476,693.54 620.925,693.908 621.437,694.181 621.992,694.35 622.569,694.407 623.147,694.35 623.702,694.181 624.214,693.908 624.662,693.54 625.03,693.091 625.304,692.579 625.472,692.024 625.529,691.447 625.472,690.869 625.304,690.314 625.03,689.802 624.662,689.354 624.125,688.816 623.676,688.448 623.165,688.175 622.609,688.006 622.032,687.949 621.454,688.006 620.899,688.175 620.387,688.448 619.939,688.816 619.571,689.265 619.297,689.777 619.129,690.332 619.072,690.909" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 534.925,400.403 535.094,400.958 535.367,401.47 535.735,401.918 536.184,402.286 536.696,402.56 537.251,402.728 537.828,402.785 540.228,402.785 540.806,402.728 541.361,402.56 541.873,402.286 542.321,401.918 542.689,401.47 542.963,400.958 543.131,400.403 543.188,399.825 543.188,399.625 543.131,399.048 542.963,398.492 542.689,397.981 542.321,397.532 541.873,397.164 541.361,396.89 540.806,396.722 540.228,396.665 537.828,396.665 537.251,396.722 536.696,396.89 536.184,397.164 535.735,397.532 535.367,397.981 535.094,398.492 534.925,399.048 534.868,399.625 534.868,399.825" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 722.088,654.539 722.256,655.095 722.53,655.606 722.898,656.055 723.346,656.423 723.858,656.697 724.413,656.865 724.991,656.922 727.611,656.922 728.188,656.865 728.744,656.697 729.255,656.423 729.704,656.055 730.072,655.606 730.346,655.095 730.514,654.539 730.571,653.962 730.571,645.122 730.514,644.544 730.346,643.989 730.072,643.477 729.704,643.029 729.255,642.661 728.744,642.387 728.188,642.219 727.611,642.162 724.991,642.162 724.413,642.219 723.858,642.387 723.346,642.661 722.898,643.029 722.53,643.477 722.256,643.989 722.088,644.544 722.031,645.122 722.031,653.962" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 1222.2,838.26 1222.37,838.815 1222.64,839.327 1223.01,839.775 1223.15,839.917 1223.6,840.285 1224.11,840.558 1224.67,840.727 1225.25,840.784 1225.82,840.727 1226.38,840.558 1226.89,840.285 1227.34,839.917 1229.04,838.22 1229.4,837.771 1229.68,837.259 1229.85,836.704 1229.9,836.127 1229.85,835.549 1229.68,834.994 1229.4,834.482 1229.04,834.034 1228.9,833.892 1228.45,833.524 1227.94,833.251 1227.38,833.082 1226.8,833.025 1226.22,833.082 1225.67,833.251 1225.16,833.524 1224.71,833.892 1223.01,835.589 1222.64,836.038 1222.37,836.55 1222.2,837.105 1222.15,837.682" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 504.035,557.301 504.204,557.856 504.477,558.368 504.846,558.816 505.294,559.184 505.806,559.458 506.361,559.626 506.939,559.683 507.516,559.626 508.071,559.458 508.583,559.184 509.032,558.816 510.757,557.091 511.125,556.642 511.399,556.131 511.567,555.575 511.624,554.998 511.567,554.42 511.399,553.865 511.125,553.353 510.757,552.905 510.308,552.537 509.797,552.263 509.241,552.095 508.664,552.038 508.086,552.095 507.531,552.263 507.019,552.537 506.571,552.905 504.846,554.63 504.477,555.079 504.204,555.591 504.035,556.146 503.979,556.723" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 765.49,294.121 765.659,294.676 765.932,295.188 766.3,295.636 768.026,297.362 768.474,297.73 768.986,298.003 769.541,298.172 770.119,298.229 770.696,298.172 771.251,298.003 771.763,297.73 772.212,297.362 772.58,296.913 772.853,296.401 773.022,295.846 773.079,295.269 773.022,294.691 772.853,294.136 772.58,293.624 772.212,293.176 770.486,291.45 770.038,291.082 769.526,290.809 768.971,290.64 768.393,290.583 767.816,290.64 767.261,290.809 766.749,291.082 766.3,291.45 765.932,291.899 765.659,292.411 765.49,292.966 765.433,293.543" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 535.745,431.53 535.914,432.085 536.187,432.597 536.555,433.045 537.004,433.413 537.516,433.687 538.071,433.855 538.648,433.912 539.408,433.912 539.986,433.855 540.541,433.687 541.053,433.413 541.501,433.045 541.869,432.597 542.143,432.085 542.311,431.53 542.368,430.952 542.311,430.375 542.143,429.819 541.869,429.308 541.501,428.859 541.053,428.491 540.541,428.218 539.986,428.049 539.408,427.992 538.648,427.992 538.071,428.049 537.516,428.218 537.004,428.491 536.555,428.859 536.187,429.308 535.914,429.819 535.745,430.375 535.688,430.952" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 721.635,337.976 721.804,338.531 722.077,339.043 722.445,339.491 724.251,341.297 724.7,341.666 725.212,341.939 725.767,342.108 726.344,342.164 726.922,342.108 727.477,341.939 727.989,341.666 728.437,341.297 728.833,340.901 729.202,340.453 729.475,339.941 729.644,339.386 729.7,338.808 729.644,338.231 729.475,337.676 729.202,337.164 728.833,336.715 727.027,334.909 726.579,334.541 726.067,334.268 725.512,334.099 724.934,334.042 724.357,334.099 723.802,334.268 723.29,334.541 722.841,334.909 722.445,335.305 722.077,335.754 721.804,336.265 721.635,336.821 721.578,337.398" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 722.866,588.287 723.035,588.842 723.308,589.354 723.676,589.802 724.125,590.17 724.637,590.444 725.192,590.612 725.769,590.669 726.429,590.669 727.007,590.612 727.562,590.444 728.074,590.17 728.522,589.802 728.891,589.354 729.164,588.842 729.333,588.287 729.389,587.709 729.389,587.509 729.333,586.932 729.164,586.376 728.891,585.865 728.522,585.416 728.074,585.048 727.562,584.774 727.007,584.606 726.429,584.549 725.769,584.549 725.192,584.606 724.637,584.774 724.125,585.048 723.676,585.416 723.308,585.865 723.035,586.376 722.866,586.932 722.809,587.509 722.809,587.709" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 534.905,524.371 535.074,524.926 535.347,525.438 535.715,525.887 536.164,526.255 536.676,526.528 537.231,526.697 537.808,526.754 540.363,526.754 540.94,526.697 541.495,526.528 542.007,526.255 542.456,525.887 542.824,525.438 543.097,524.926 543.266,524.371 543.323,523.794 543.323,523.234 543.266,522.656 543.097,522.101 542.824,521.589 542.456,521.14 542.007,520.772 541.495,520.499 540.94,520.33 540.363,520.274 537.808,520.274 537.231,520.33 536.676,520.499 536.164,520.772 535.715,521.14 535.347,521.589 535.074,522.101 534.905,522.656 534.848,523.234 534.848,523.794" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 721.968,712.674 722.136,713.229 722.41,713.741 722.778,714.189 723.226,714.557 723.738,714.831 724.293,714.999 724.871,715.056 727.911,715.056 728.488,714.999 729.044,714.831 729.555,714.557 730.004,714.189 730.372,713.741 730.646,713.229 730.814,712.674 730.871,712.096 730.871,711.896 730.814,711.319 730.646,710.763 730.372,710.252 730.004,709.803 729.555,709.435 729.044,709.161 728.488,708.993 727.911,708.936 724.871,708.936 724.293,708.993 723.738,709.161 723.226,709.435 722.778,709.803 722.41,710.252 722.136,710.763 721.968,711.319 721.911,711.896 721.911,712.096" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 285.928,173.782 286.097,174.337 286.37,174.849 286.739,175.297 287.187,175.665 287.699,175.939 288.254,176.107 288.832,176.164 289.592,176.164 290.169,176.107 290.724,175.939 291.236,175.665 291.685,175.297 292.053,174.849 292.326,174.337 292.495,173.782 292.552,173.204 292.495,172.627 292.326,172.071 292.053,171.56 291.685,171.111 291.236,170.743 290.724,170.469 290.169,170.301 289.592,170.244 288.832,170.244 288.254,170.301 287.699,170.469 287.187,170.743 286.739,171.111 286.37,171.56 286.097,172.071 285.928,172.627 285.872,173.204" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 98.0266,711.796 98.1951,712.351 98.4686,712.863 98.8367,713.311 100.534,715.008 100.982,715.376 101.494,715.65 102.049,715.818 102.627,715.875 103.204,715.818 103.76,715.65 104.271,715.376 104.72,715.008 104.861,714.867 105.229,714.418 105.503,713.907 105.671,713.351 105.728,712.774 105.671,712.196 105.503,711.641 105.229,711.129 104.861,710.681 103.164,708.984 102.716,708.616 102.204,708.342 101.649,708.174 101.071,708.117 100.494,708.174 99.9384,708.342 99.4267,708.616 98.9782,708.984 98.8367,709.125 98.4686,709.574 98.1951,710.086 98.0266,710.641 97.9698,711.218" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 610.844,654.539 611.013,655.094 611.286,655.606 611.654,656.055 612.103,656.423 612.615,656.696 613.17,656.865 613.748,656.922 614.325,656.865 614.88,656.696 615.392,656.423 615.841,656.055 616.209,655.606 616.482,655.094 616.651,654.539 616.708,653.962 616.759,645.122 616.703,644.545 616.534,643.989 616.261,643.478 615.893,643.029 615.444,642.661 614.932,642.387 614.377,642.219 613.799,642.162 613.222,642.219 612.667,642.387 612.155,642.661 611.706,643.029 611.338,643.478 611.065,643.989 610.896,644.545 610.839,645.122 610.788,653.962" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 785.023,1150.53 785.191,1151.09 785.465,1151.6 785.833,1152.05 785.974,1152.19 786.423,1152.56 786.935,1152.83 787.49,1153 788.067,1153.05 788.645,1153 789.2,1152.83 789.712,1152.56 790.16,1152.19 791.857,1150.49 792.225,1150.04 792.499,1149.53 792.667,1148.98 792.724,1148.4 792.667,1147.82 792.499,1147.26 792.225,1146.75 791.857,1146.3 791.716,1146.16 791.267,1145.8 790.756,1145.52 790.2,1145.35 789.623,1145.3 789.045,1145.35 788.49,1145.52 787.978,1145.8 787.53,1146.16 785.833,1147.86 785.465,1148.31 785.191,1148.82 785.023,1149.38 784.966,1149.95" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 71.6939,623.405 71.8623,623.96 72.1359,624.472 72.504,624.92 72.9525,625.288 73.4643,625.562 74.0196,625.73 74.597,625.787 75.1745,625.73 75.7298,625.562 76.2415,625.288 76.6901,624.92 77.2272,624.383 77.5953,623.934 77.8688,623.422 78.0372,622.867 78.0941,622.29 78.0372,621.712 77.8688,621.157 77.5953,620.645 77.2272,620.197 76.7786,619.828 76.2669,619.555 75.7116,619.386 75.1341,619.33 74.5566,619.386 74.0014,619.555 73.4896,619.828 73.0411,620.197 72.504,620.734 72.1359,621.183 71.8623,621.695 71.6939,622.25 71.637,622.827" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 111.235,650.499 111.403,651.055 111.677,651.566 112.045,652.015 112.493,652.383 113.005,652.657 113.56,652.825 114.138,652.882 114.715,652.825 115.271,652.657 115.782,652.383 116.231,652.015 116.599,651.566 116.873,651.055 117.041,650.499 117.098,649.922 117.102,649.162 117.045,648.584 116.877,648.029 116.603,647.517 116.235,647.069 115.787,646.701 115.275,646.427 114.72,646.259 114.142,646.202 113.565,646.259 113.009,646.427 112.498,646.701 112.049,647.069 111.681,647.517 111.407,648.029 111.239,648.584 111.182,649.162 111.178,649.922" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 498.384,812.232 498.552,812.787 498.826,813.299 499.194,813.747 499.731,814.285 500.18,814.653 500.692,814.926 501.247,815.095 501.825,815.152 502.402,815.095 502.957,814.926 503.469,814.653 503.918,814.285 504.286,813.836 504.559,813.324 504.728,812.769 504.785,812.192 504.728,811.614 504.559,811.059 504.286,810.547 503.918,810.098 503.38,809.561 502.932,809.193 502.42,808.919 501.865,808.751 501.287,808.694 500.71,808.751 500.154,808.919 499.643,809.193 499.194,809.561 498.826,810.01 498.552,810.521 498.384,811.077 498.327,811.654" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 285.108,88.1317 285.277,88.6869 285.55,89.1987 285.919,89.6472 286.367,90.0153 286.879,90.2889 287.434,90.4573 288.012,90.5142 290.412,90.5142 290.989,90.4573 291.544,90.2889 292.056,90.0153 292.505,89.6472 292.873,89.1987 293.146,88.6869 293.315,88.1317 293.372,87.5542 293.372,87.3542 293.315,86.7767 293.146,86.2214 292.873,85.7097 292.505,85.2612 292.056,84.893 291.544,84.6195 290.989,84.4511 290.412,84.3942 288.012,84.3942 287.434,84.4511 286.879,84.6195 286.367,84.893 285.919,85.2612 285.55,85.7097 285.277,86.2214 285.108,86.7767 285.052,87.3542 285.052,87.5542" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 573.329,487.47 573.497,488.025 573.771,488.537 574.139,488.985 574.677,489.523 575.125,489.891 575.637,490.164 576.192,490.333 576.77,490.39 577.347,490.333 577.902,490.164 578.414,489.891 578.863,489.523 579.231,489.074 579.504,488.562 579.673,488.007 579.73,487.43 579.673,486.852 579.504,486.297 579.231,485.785 578.863,485.337 578.325,484.799 577.877,484.431 577.365,484.158 576.81,483.989 576.232,483.932 575.655,483.989 575.099,484.158 574.588,484.431 574.139,484.799 573.771,485.248 573.497,485.76 573.329,486.315 573.272,486.892" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 412.768,464.845 412.936,465.401 413.21,465.912 413.578,466.361 414.027,466.729 414.538,467.003 415.094,467.171 415.671,467.228 416.249,467.171 416.804,467.003 417.316,466.729 417.764,466.361 418.302,465.824 418.67,465.375 418.943,464.863 419.112,464.308 419.169,463.73 419.112,463.153 418.943,462.598 418.67,462.086 418.302,461.637 417.853,461.269 417.341,460.996 416.786,460.827 416.209,460.77 415.631,460.827 415.076,460.996 414.564,461.269 414.115,461.637 413.578,462.175 413.21,462.623 412.936,463.135 412.768,463.69 412.711,464.268" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 722.268,681.346 722.436,681.902 722.71,682.413 723.078,682.862 723.526,683.23 724.038,683.504 724.593,683.672 725.171,683.729 727.611,683.729 728.188,683.672 728.744,683.504 729.255,683.23 729.704,682.862 730.072,682.413 730.346,681.902 730.514,681.346 730.571,680.769 730.514,680.192 730.346,679.636 730.072,679.125 729.704,678.676 729.255,678.308 728.744,678.034 728.188,677.866 727.611,677.809 725.171,677.809 724.593,677.866 724.038,678.034 723.526,678.308 723.078,678.676 722.71,679.125 722.436,679.636 722.268,680.192 722.211,680.769" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 352.134,404.211 352.302,404.766 352.576,405.278 352.944,405.727 353.392,406.095 353.904,406.368 354.459,406.537 355.037,406.594 355.614,406.537 356.17,406.368 356.681,406.095 357.13,405.727 357.667,405.189 358.035,404.741 358.309,404.229 358.477,403.674 358.534,403.096 358.477,402.519 358.309,401.963 358.035,401.452 357.667,401.003 357.219,400.635 356.707,400.361 356.152,400.193 355.574,400.136 354.997,400.193 354.441,400.361 353.93,400.635 353.481,401.003 352.944,401.541 352.576,401.989 352.302,402.501 352.134,403.056 352.077,403.634" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 385.966,924.649 386.135,925.204 386.408,925.716 386.777,926.165 387.314,926.702 387.762,927.07 388.274,927.344 388.83,927.512 389.407,927.569 389.984,927.512 390.54,927.344 391.051,927.07 391.5,926.702 391.868,926.254 392.142,925.742 392.31,925.187 392.367,924.609 392.31,924.032 392.142,923.476 391.868,922.965 391.5,922.516 390.963,921.979 390.514,921.61 390.002,921.337 389.447,921.169 388.87,921.112 388.292,921.169 387.737,921.337 387.225,921.61 386.777,921.979 386.408,922.427 386.135,922.939 385.966,923.494 385.91,924.072" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 598.311,711.117 598.479,711.672 598.753,712.184 599.121,712.632 600.927,714.439 601.375,714.807 601.887,715.08 602.443,715.249 603.02,715.306 603.597,715.249 604.153,715.08 604.664,714.807 605.113,714.439 605.509,714.043 605.877,713.594 606.151,713.082 606.319,712.527 606.376,711.95 606.319,711.372 606.151,710.817 605.877,710.305 605.509,709.857 603.703,708.05 603.254,707.682 602.743,707.409 602.187,707.24 601.61,707.183 601.032,707.24 600.477,707.409 599.965,707.682 599.517,708.05 599.121,708.446 598.753,708.895 598.479,709.407 598.311,709.962 598.254,710.539" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 475.505,775.408 475.673,775.963 475.947,776.475 476.315,776.923 476.764,777.291 477.275,777.565 477.831,777.733 478.408,777.79 478.986,777.733 479.541,777.565 480.053,777.291 480.501,776.923 480.869,776.475 481.143,775.963 481.311,775.408 481.368,774.83 481.368,774.07 481.311,773.493 481.143,772.938 480.869,772.426 480.501,771.977 480.053,771.609 479.541,771.336 478.986,771.167 478.408,771.11 477.831,771.167 477.275,771.336 476.764,771.609 476.315,771.977 475.947,772.426 475.673,772.938 475.505,773.493 475.448,774.07 475.448,774.83" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 423.439,887.177 423.607,887.732 423.881,888.244 424.249,888.692 424.786,889.23 425.235,889.598 425.747,889.871 426.302,890.04 426.879,890.097 427.457,890.04 428.012,889.871 428.524,889.598 428.973,889.23 429.341,888.781 429.614,888.269 429.783,887.714 429.839,887.137 429.783,886.559 429.614,886.004 429.341,885.492 428.973,885.043 428.435,884.506 427.987,884.138 427.475,883.864 426.92,883.696 426.342,883.639 425.765,883.696 425.209,883.864 424.698,884.138 424.249,884.506 423.881,884.955 423.607,885.466 423.439,886.022 423.382,886.599" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 291.495,343.573 291.664,344.128 291.937,344.64 292.305,345.088 292.754,345.456 293.266,345.73 293.821,345.898 294.398,345.955 294.976,345.898 295.531,345.73 296.043,345.456 296.491,345.088 297.037,344.559 297.405,344.111 297.679,343.599 297.847,343.043 297.904,342.466 297.847,341.889 297.679,341.333 297.405,340.822 297.037,340.373 296.588,340.005 296.077,339.731 295.521,339.563 294.944,339.506 294.366,339.563 293.811,339.731 293.299,340.005 292.851,340.373 292.305,340.902 291.937,341.351 291.664,341.862 291.495,342.418 291.438,342.995" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 568.472,626.263 568.641,626.818 568.914,627.33 569.282,627.779 569.731,628.147 570.243,628.42 570.798,628.589 571.375,628.646 571.953,628.589 572.508,628.42 573.02,628.147 573.468,627.779 579.716,621.524 580.084,621.076 580.357,620.564 580.526,620.009 580.583,619.431 580.526,618.854 580.357,618.299 580.084,617.787 579.716,617.338 579.267,616.97 578.756,616.697 578.2,616.528 577.623,616.471 577.045,616.528 576.49,616.697 575.978,616.97 575.53,617.338 569.282,623.593 568.914,624.041 568.641,624.553 568.472,625.108 568.415,625.686" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 691.992,618.624 692.16,619.179 692.434,619.691 692.802,620.139 693.339,620.677 693.788,621.045 694.3,621.318 694.855,621.487 695.433,621.544 696.01,621.487 696.565,621.318 697.077,621.045 697.526,620.677 697.894,620.228 698.167,619.716 698.336,619.161 698.393,618.584 698.336,618.006 698.167,617.451 697.894,616.939 697.526,616.49 696.988,615.953 696.54,615.585 696.028,615.311 695.473,615.143 694.895,615.086 694.318,615.143 693.762,615.311 693.251,615.585 692.802,615.953 692.434,616.402 692.16,616.913 691.992,617.469 691.935,618.046" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 35.5725,588.443 35.7409,588.998 36.0144,589.51 36.3825,589.959 36.524,590.1 36.9725,590.468 37.4843,590.742 38.0395,590.91 38.617,590.967 39.1945,590.91 39.7497,590.742 40.2615,590.468 40.71,590.1 42.4071,588.403 42.7752,587.954 43.0487,587.443 43.2172,586.887 43.2741,586.31 43.2172,585.732 43.0487,585.177 42.7752,584.665 42.4071,584.217 42.2657,584.075 41.8171,583.707 41.3054,583.434 40.7501,583.265 40.1726,583.208 39.5952,583.265 39.0399,583.434 38.5281,583.707 38.0796,584.075 36.3825,585.772 36.0144,586.221 35.7409,586.733 35.5725,587.288 35.5156,587.866" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 299.114,649.922 299.171,650.499 299.34,651.055 299.613,651.566 299.981,652.015 300.43,652.383 300.942,652.657 301.497,652.825 302.074,652.882 302.652,652.825 303.207,652.657 303.719,652.383 304.168,652.015 304.536,651.566 304.809,651.055 304.978,650.499 305.034,649.922 305.034,649.162 304.977,648.584 304.809,648.029 304.535,647.517 304.167,647.069 303.719,646.701 303.207,646.427 302.651,646.259 302.074,646.202 301.497,646.259 300.941,646.427 300.43,646.701 299.981,647.069 299.613,647.517 299.339,648.029 299.171,648.584 299.114,649.162" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 420.145,578.199 420.314,578.755 420.587,579.266 420.955,579.715 421.493,580.252 421.941,580.62 422.453,580.894 423.008,581.062 423.586,581.119 424.163,581.062 424.719,580.894 425.23,580.62 425.679,580.252 426.047,579.804 426.32,579.292 426.489,578.737 426.546,578.159 426.489,577.582 426.32,577.027 426.047,576.515 425.679,576.066 425.141,575.529 424.693,575.161 424.181,574.887 423.626,574.719 423.048,574.662 422.471,574.719 421.916,574.887 421.404,575.161 420.955,575.529 420.587,575.977 420.314,576.489 420.145,577.044 420.088,577.622" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 648.274,412.525 648.443,413.08 648.716,413.592 649.084,414.04 649.622,414.578 650.07,414.946 650.582,415.219 651.137,415.388 651.715,415.445 652.292,415.388 652.847,415.219 653.359,414.946 653.808,414.578 654.176,414.129 654.449,413.617 654.618,413.062 654.675,412.485 654.618,411.907 654.449,411.352 654.176,410.84 653.808,410.392 653.27,409.854 652.822,409.486 652.31,409.213 651.755,409.044 651.177,408.987 650.6,409.044 650.044,409.213 649.533,409.486 649.084,409.854 648.716,410.303 648.443,410.815 648.274,411.37 648.217,411.947" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 309.316,736.119 309.485,736.674 309.758,737.186 310.126,737.634 310.575,738.002 311.087,738.276 311.642,738.444 312.219,738.501 312.797,738.444 313.352,738.276 313.864,738.002 314.312,737.634 314.849,737.096 315.217,736.647 315.49,736.135 315.659,735.58 315.716,735.003 315.659,734.425 315.49,733.87 315.217,733.358 314.849,732.91 314.4,732.541 313.888,732.268 313.333,732.1 312.756,732.043 312.178,732.1 311.623,732.268 311.111,732.541 310.662,732.91 310.126,733.448 309.758,733.897 309.485,734.408 309.316,734.964 309.259,735.541" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 266.451,693.253 266.619,693.808 266.893,694.32 267.261,694.769 267.709,695.137 268.221,695.41 268.776,695.579 269.354,695.636 269.931,695.579 270.486,695.41 270.998,695.137 271.447,694.769 271.984,694.231 272.352,693.783 272.626,693.271 272.794,692.716 272.851,692.138 272.794,691.561 272.626,691.005 272.352,690.494 271.984,690.045 271.536,689.677 271.024,689.404 270.469,689.235 269.891,689.178 269.314,689.235 268.758,689.404 268.247,689.677 267.798,690.045 267.261,690.583 266.893,691.031 266.619,691.543 266.451,692.098 266.394,692.676" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 1011.96,650.499 1012.13,651.055 1012.41,651.566 1012.77,652.015 1013.22,652.383 1013.73,652.657 1014.29,652.825 1014.87,652.882 1015.44,652.825 1016,652.657 1016.51,652.383 1016.96,652.015 1017.33,651.566 1017.6,651.055 1017.77,650.499 1017.83,649.922 1017.83,649.162 1017.77,648.584 1017.6,648.029 1017.33,647.517 1016.96,647.069 1016.51,646.701 1016,646.427 1015.45,646.259 1014.87,646.202 1014.29,646.259 1013.74,646.427 1013.22,646.701 1012.78,647.069 1012.41,647.517 1012.13,648.029 1011.97,648.584 1011.91,649.162 1011.91,649.922" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 954.269,650.499 954.438,651.055 954.711,651.566 955.079,652.015 955.528,652.383 956.04,652.657 956.595,652.825 957.172,652.882 957.75,652.825 958.305,652.657 958.817,652.383 959.265,652.015 959.633,651.566 959.907,651.055 960.075,650.499 960.132,649.922 960.132,649.162 960.075,648.584 959.907,648.029 959.633,647.517 959.265,647.069 958.817,646.701 958.305,646.427 957.75,646.259 957.172,646.202 956.595,646.259 956.04,646.427 955.528,646.701 955.079,647.069 954.711,647.517 954.438,648.029 954.269,648.584 954.212,649.162 954.212,649.922" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 896.574,650.499 896.742,651.055 897.016,651.566 897.384,652.015 897.832,652.383 898.344,652.657 898.9,652.825 899.477,652.882 900.054,652.825 900.61,652.657 901.121,652.383 901.57,652.015 901.938,651.566 902.212,651.055 902.38,650.499 902.437,649.922 902.437,649.162 902.38,648.584 902.212,648.029 901.938,647.517 901.57,647.069 901.121,646.701 900.61,646.427 900.054,646.259 899.477,646.202 898.9,646.259 898.344,646.427 897.832,646.701 897.384,647.069 897.016,647.517 896.742,648.029 896.574,648.584 896.517,649.162 896.517,649.922" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 347.843,961.613 348.012,962.168 348.285,962.68 348.653,963.128 350.351,964.825 350.799,965.193 351.311,965.467 351.866,965.635 352.444,965.692 353.021,965.635 353.576,965.467 354.088,965.193 354.537,964.825 354.678,964.684 355.046,964.235 355.32,963.723 355.488,963.168 355.545,962.591 355.488,962.013 355.32,961.458 355.046,960.946 354.678,960.498 352.981,958.801 352.532,958.432 352.021,958.159 351.465,957.99 350.888,957.934 350.31,957.99 349.755,958.159 349.243,958.432 348.795,958.801 348.653,958.942 348.285,959.391 348.012,959.902 347.843,960.458 347.787,961.035" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 838.879,650.499 839.047,651.055 839.32,651.566 839.689,652.015 840.137,652.383 840.649,652.657 841.204,652.825 841.782,652.882 842.359,652.825 842.914,652.657 843.426,652.383 843.875,652.015 844.243,651.566 844.516,651.055 844.685,650.499 844.742,649.922 844.742,649.162 844.685,648.584 844.516,648.029 844.243,647.517 843.875,647.069 843.426,646.701 842.914,646.427 842.359,646.259 841.782,646.202 841.204,646.259 840.649,646.427 840.137,646.701 839.689,647.069 839.32,647.517 839.047,648.029 838.879,648.584 838.822,649.162 838.822,649.922" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 414.885,775.408 415.053,775.963 415.327,776.475 415.695,776.923 416.143,777.291 416.655,777.565 417.21,777.733 417.788,777.79 418.365,777.733 418.921,777.565 419.432,777.291 419.881,776.923 420.249,776.475 420.522,775.963 420.691,775.408 420.748,774.83 420.748,774.07 420.691,773.493 420.522,772.938 420.249,772.426 419.881,771.977 419.432,771.609 418.921,771.336 418.365,771.167 417.788,771.11 417.21,771.167 416.655,771.336 416.143,771.609 415.695,771.977 415.327,772.426 415.053,772.938 414.885,773.493 414.828,774.07 414.828,774.83" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,789.7 723.276,790.256 723.55,790.767 723.918,791.216 724.366,791.584 724.878,791.858 725.433,792.026 726.011,792.083 726.771,792.083 727.348,792.026 727.904,791.858 728.415,791.584 728.864,791.216 729.232,790.767 729.506,790.256 729.674,789.7 729.731,789.123 729.674,788.545 729.506,787.99 729.232,787.478 728.864,787.03 728.415,786.662 727.904,786.388 727.348,786.22 726.771,786.163 726.011,786.163 725.433,786.22 724.878,786.388 724.366,786.662 723.918,787.03 723.55,787.478 723.276,787.99 723.108,788.545 723.051,789.123" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 685.747,375.052 685.915,375.608 686.189,376.119 686.557,376.568 687.094,377.105 687.543,377.473 688.054,377.747 688.61,377.915 689.187,377.972 689.765,377.915 690.32,377.747 690.832,377.473 691.28,377.105 691.648,376.657 691.922,376.145 692.09,375.59 692.147,375.012 692.09,374.435 691.922,373.879 691.648,373.368 691.28,372.919 690.743,372.382 690.294,372.014 689.782,371.74 689.227,371.572 688.65,371.515 688.072,371.572 687.517,371.74 687.005,372.014 686.557,372.382 686.189,372.83 685.915,373.342 685.747,373.897 685.69,374.475" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,525.211 723.276,525.766 723.55,526.278 723.918,526.727 724.366,527.095 724.878,527.368 725.433,527.537 726.011,527.594 726.771,527.594 727.348,527.537 727.904,527.368 728.415,527.095 728.864,526.727 729.232,526.278 729.506,525.766 729.674,525.211 729.731,524.634 729.674,524.056 729.506,523.501 729.232,522.989 728.864,522.54 728.415,522.172 727.904,521.899 727.348,521.73 726.771,521.674 726.011,521.674 725.433,521.73 724.878,521.899 724.366,522.172 723.918,522.54 723.55,522.989 723.276,523.501 723.108,524.056 723.051,524.634" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,866.827 723.276,867.382 723.55,867.894 723.918,868.343 724.366,868.711 724.878,868.984 725.433,869.153 726.011,869.21 726.771,869.21 727.348,869.153 727.904,868.984 728.415,868.711 728.864,868.343 729.232,867.894 729.506,867.382 729.674,866.827 729.731,866.25 729.674,865.672 729.506,865.117 729.232,864.605 728.864,864.157 728.415,863.788 727.904,863.515 727.348,863.347 726.771,863.29 726.011,863.29 725.433,863.347 724.878,863.515 724.366,863.788 723.918,864.157 723.55,864.605 723.276,865.117 723.108,865.672 723.051,866.25" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 354.253,775.407 354.422,775.963 354.695,776.474 355.063,776.923 355.512,777.291 356.024,777.565 356.579,777.733 357.157,777.79 357.734,777.733 358.289,777.565 358.801,777.291 359.25,776.923 359.618,776.474 359.891,775.963 360.06,775.407 360.117,774.83 360.139,774.071 360.082,773.493 359.913,772.938 359.64,772.426 359.272,771.978 358.823,771.609 358.311,771.336 357.756,771.167 357.179,771.111 356.601,771.167 356.046,771.336 355.534,771.609 355.086,771.978 354.717,772.426 354.444,772.938 354.275,773.493 354.219,774.071 354.197,774.83" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,943.954 723.276,944.509 723.55,945.021 723.918,945.469 724.366,945.838 724.878,946.111 725.433,946.28 726.011,946.336 726.771,946.336 727.348,946.28 727.904,946.111 728.415,945.838 728.864,945.469 729.232,945.021 729.506,944.509 729.674,943.954 729.731,943.376 729.674,942.799 729.506,942.244 729.232,941.732 728.864,941.283 728.415,940.915 727.904,940.642 727.348,940.473 726.771,940.416 726.011,940.416 725.433,940.473 724.878,940.642 724.366,940.915 723.918,941.283 723.55,941.732 723.276,942.244 723.108,942.799 723.051,943.376" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 731.133,1095.48 731.302,1096.04 731.575,1096.55 731.944,1097 732.392,1097.37 732.904,1097.64 733.459,1097.81 734.037,1097.86 734.614,1097.81 735.169,1097.64 735.681,1097.37 736.13,1097 736.673,1096.47 737.041,1096.02 737.315,1095.51 737.483,1094.95 737.54,1094.37 737.483,1093.8 737.315,1093.24 737.041,1092.73 736.673,1092.28 736.224,1091.91 735.713,1091.64 735.157,1091.47 734.58,1091.41 734.002,1091.47 733.447,1091.64 732.935,1091.91 732.487,1092.28 731.944,1092.81 731.575,1093.26 731.302,1093.77 731.133,1094.33 731.077,1094.9" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,400.303 723.276,400.858 723.55,401.37 723.918,401.818 724.366,402.186 724.878,402.46 725.433,402.628 726.011,402.685 726.771,402.685 727.348,402.628 727.904,402.46 728.415,402.186 728.864,401.818 729.232,401.37 729.506,400.858 729.674,400.303 729.731,399.725 729.674,399.148 729.506,398.592 729.232,398.081 728.864,397.632 728.415,397.264 727.904,396.99 727.348,396.822 726.771,396.765 726.011,396.765 725.433,396.822 724.878,396.99 724.366,397.264 723.918,397.632 723.55,398.081 723.276,398.592 723.108,399.148 723.051,399.725" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,1021.08 723.276,1021.64 723.55,1022.15 723.918,1022.6 724.366,1022.96 724.878,1023.24 725.433,1023.41 726.011,1023.46 726.771,1023.46 727.348,1023.41 727.904,1023.24 728.415,1022.96 728.864,1022.6 729.232,1022.15 729.506,1021.64 729.674,1021.08 729.731,1020.5 729.674,1019.93 729.506,1019.37 729.232,1018.86 728.864,1018.41 728.415,1018.04 727.904,1017.77 727.348,1017.6 726.771,1017.54 726.011,1017.54 725.433,1017.6 724.878,1017.77 724.366,1018.04 723.918,1018.41 723.55,1018.86 723.276,1019.37 723.108,1019.93 723.051,1020.5" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 808.353,251.257 808.522,251.813 808.795,252.325 809.163,252.773 810.892,254.495 811.341,254.863 811.853,255.137 812.408,255.305 812.985,255.362 813.563,255.305 814.118,255.137 814.63,254.863 815.078,254.495 815.446,254.046 815.72,253.535 815.888,252.979 815.945,252.402 815.888,251.824 815.72,251.269 815.446,250.757 815.078,250.309 813.35,248.587 812.901,248.219 812.389,247.945 811.834,247.777 811.257,247.72 810.679,247.777 810.124,247.945 809.612,248.219 809.163,248.587 808.795,249.036 808.522,249.547 808.353,250.103 808.297,250.68" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 847.176,146.818 847.345,147.373 847.618,147.885 847.986,148.334 848.435,148.702 848.947,148.975 849.502,149.144 850.079,149.201 852.519,149.201 853.097,149.144 853.652,148.975 854.164,148.702 854.612,148.334 854.98,147.885 855.254,147.373 855.422,146.818 855.479,146.241 855.422,145.663 855.254,145.108 854.98,144.596 854.612,144.147 854.164,143.779 853.652,143.506 853.097,143.337 852.519,143.281 850.079,143.281 849.502,143.337 848.947,143.506 848.435,143.779 847.986,144.147 847.618,144.596 847.345,145.108 847.176,145.663 847.119,146.241" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 529.656,587.447 529.825,588.002 530.098,588.514 530.466,588.963 533.668,592.165 534.117,592.533 534.629,592.806 535.184,592.975 535.762,593.032 536.339,592.975 536.894,592.806 537.406,592.533 537.855,592.165 544.323,585.696 544.692,585.247 544.965,584.736 545.134,584.18 545.19,583.603 545.134,583.025 544.965,582.47 544.692,581.958 544.323,581.51 541.121,578.308 540.673,577.94 540.161,577.666 539.606,577.498 539.028,577.441 538.451,577.498 537.896,577.666 537.384,577.94 536.935,578.308 530.466,584.777 530.098,585.225 529.825,585.737 529.656,586.292 529.599,586.87" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 639.947,670.669 640.115,671.224 640.389,671.736 640.757,672.184 641.294,672.722 641.743,673.09 642.255,673.363 642.81,673.532 643.387,673.589 643.965,673.532 644.52,673.363 645.032,673.09 645.48,672.722 645.849,672.273 646.122,671.761 646.29,671.206 646.347,670.629 646.29,670.051 646.122,669.496 645.849,668.984 645.48,668.536 644.943,667.998 644.494,667.63 643.983,667.357 643.427,667.188 642.85,667.131 642.272,667.188 641.717,667.357 641.205,667.63 640.757,667.998 640.389,668.447 640.115,668.959 639.947,669.514 639.89,670.091" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 723.108,462.757 723.276,463.312 723.55,463.824 723.918,464.272 724.366,464.64 724.878,464.914 725.433,465.082 726.011,465.139 726.771,465.139 727.348,465.082 727.904,464.914 728.415,464.64 728.864,464.272 729.232,463.824 729.506,463.312 729.674,462.757 729.731,462.179 729.674,461.602 729.506,461.047 729.232,460.535 728.864,460.086 728.415,459.718 727.904,459.445 727.348,459.276 726.771,459.219 726.011,459.219 725.433,459.276 724.878,459.445 724.366,459.718 723.918,460.086 723.55,460.535 723.276,461.047 723.108,461.602 723.051,462.179" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 847.176,86.1977 847.345,86.753 847.618,87.2648 847.986,87.7133 848.435,88.0814 848.947,88.355 849.502,88.5234 850.079,88.5803 852.519,88.5803 853.097,88.5234 853.652,88.355 854.164,88.0814 854.612,87.7133 854.98,87.2648 855.254,86.753 855.422,86.1977 855.479,85.6203 855.422,85.0428 855.254,84.4875 854.98,83.9758 854.612,83.5272 854.164,83.1591 853.652,82.8856 853.097,82.7171 852.519,82.6603 850.079,82.6603 849.502,82.7171 848.947,82.8856 848.435,83.1591 847.986,83.5272 847.618,83.9758 847.345,84.4875 847.176,85.0428 847.119,85.6203" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 610.802,449.997 610.97,450.553 611.244,451.064 611.612,451.513 612.149,452.05 612.598,452.418 613.109,452.692 613.665,452.86 614.242,452.917 614.82,452.86 615.375,452.692 615.887,452.418 616.335,452.05 616.703,451.602 616.977,451.09 617.145,450.535 617.202,449.957 617.145,449.38 616.977,448.824 616.703,448.313 616.335,447.864 615.798,447.327 615.349,446.959 614.837,446.685 614.282,446.517 613.705,446.46 613.127,446.517 612.572,446.685 612.06,446.959 611.612,447.327 611.244,447.775 610.97,448.287 610.802,448.842 610.745,449.42" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 847.177,207.402 847.346,207.957 847.619,208.469 847.987,208.917 848.436,209.285 848.948,209.559 849.503,209.727 850.08,209.784 852.518,209.857 853.096,209.801 853.651,209.632 854.163,209.359 854.611,208.99 854.979,208.542 855.253,208.03 855.421,207.475 855.478,206.897 855.421,206.32 855.253,205.765 854.979,205.253 854.611,204.804 854.163,204.436 853.651,204.163 853.096,203.994 852.518,203.937 850.08,203.864 849.503,203.921 848.948,204.09 848.436,204.363 847.987,204.731 847.619,205.18 847.346,205.691 847.177,206.247 847.12,206.824" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 659.634,654.539 659.802,655.095 660.076,655.606 660.444,656.055 660.892,656.423 661.404,656.697 661.959,656.865 662.537,656.922 665.337,656.922 665.914,656.865 666.469,656.697 666.981,656.423 667.43,656.055 667.798,655.606 668.071,655.095 668.24,654.539 668.297,653.962 668.297,645.122 668.24,644.544 668.071,643.989 667.798,643.477 667.43,643.029 666.981,642.661 666.469,642.387 665.914,642.219 665.337,642.162 662.537,642.162 661.959,642.219 661.404,642.387 660.892,642.661 660.444,643.029 660.076,643.477 659.802,643.989 659.634,644.544 659.577,645.122 659.577,653.962" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 534.192,775.074 534.36,775.629 534.634,776.141 535.002,776.59 536.808,778.396 537.257,778.764 537.768,779.038 538.324,779.206 538.901,779.263 539.479,779.206 540.034,779.038 540.546,778.764 540.994,778.396 541.39,778 541.758,777.551 542.032,777.04 542.2,776.484 542.257,775.907 542.2,775.329 542.032,774.774 541.758,774.262 541.39,773.814 539.584,772.008 539.135,771.64 538.624,771.366 538.068,771.198 537.491,771.141 536.913,771.198 536.358,771.366 535.846,771.64 535.398,772.008 535.002,772.404 534.634,772.852 534.36,773.364 534.192,773.919 534.135,774.497" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 535.745,493.984 535.914,494.539 536.187,495.051 536.555,495.499 537.004,495.868 537.516,496.141 538.071,496.31 538.648,496.366 539.408,496.366 539.986,496.31 540.541,496.141 541.053,495.868 541.501,495.499 541.869,495.051 542.143,494.539 542.311,493.984 542.368,493.406 542.311,492.829 542.143,492.274 541.869,491.762 541.501,491.313 541.053,490.945 540.541,490.672 539.986,490.503 539.408,490.446 538.648,490.446 538.071,490.503 537.516,490.672 537.004,490.945 536.555,491.313 536.187,491.762 535.914,492.274 535.745,492.829 535.688,493.406" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 1182.06,796.954 1182.22,797.509 1182.5,798.021 1182.87,798.469 1183.31,798.838 1183.83,799.111 1184.38,799.28 1184.96,799.336 1185.54,799.28 1186.09,799.111 1186.6,798.838 1187.05,798.469 1187.59,797.932 1187.96,797.483 1188.23,796.972 1188.4,796.416 1188.46,795.839 1188.4,795.262 1188.23,794.706 1187.96,794.195 1187.59,793.746 1187.14,793.378 1186.63,793.104 1186.07,792.936 1185.5,792.879 1184.92,792.936 1184.36,793.104 1183.85,793.378 1183.4,793.746 1182.87,794.283 1182.5,794.732 1182.22,795.244 1182.06,795.799 1182,796.376" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 781.183,650.499 781.352,651.055 781.625,651.566 781.993,652.015 782.442,652.383 782.954,652.657 783.509,652.825 784.086,652.882 784.664,652.825 785.219,652.657 785.731,652.383 786.179,652.015 786.547,651.566 786.821,651.055 786.989,650.499 787.046,649.922 787.046,649.162 786.989,648.584 786.821,648.029 786.547,647.517 786.179,647.069 785.731,646.701 785.219,646.427 784.664,646.259 784.086,646.202 783.509,646.259 782.954,646.427 782.442,646.701 781.993,647.069 781.625,647.517 781.352,648.029 781.183,648.584 781.126,649.162 781.126,649.922" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 1141.26,756.157 1141.43,756.712 1141.7,757.224 1142.07,757.673 1142.52,758.041 1143.03,758.314 1143.58,758.483 1144.16,758.54 1144.74,758.483 1145.29,758.314 1145.81,758.041 1146.26,757.673 1146.79,757.135 1147.16,756.687 1147.43,756.175 1147.6,755.62 1147.66,755.042 1147.6,754.465 1147.43,753.909 1147.16,753.398 1146.79,752.949 1146.34,752.581 1145.83,752.308 1145.28,752.139 1144.7,752.082 1144.12,752.139 1143.57,752.308 1143.06,752.581 1142.61,752.949 1142.07,753.487 1141.7,753.935 1141.43,754.447 1141.26,755.002 1141.2,755.58" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 1100.46,715.36 1100.63,715.916 1100.9,716.427 1101.27,716.876 1101.72,717.244 1102.23,717.518 1102.79,717.686 1103.37,717.743 1103.94,717.686 1104.5,717.518 1105.01,717.244 1105.46,716.876 1106,716.338 1106.36,715.89 1106.64,715.378 1106.81,714.823 1106.86,714.245 1106.81,713.668 1106.64,713.113 1106.36,712.601 1106,712.152 1105.55,711.784 1105.04,711.511 1104.48,711.342 1103.9,711.285 1103.33,711.342 1102.77,711.511 1102.26,711.784 1101.81,712.152 1101.27,712.69 1100.9,713.138 1100.63,713.65 1100.46,714.205 1100.41,714.783" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 1059.67,674.564 1059.83,675.119 1060.11,675.631 1060.48,676.079 1060.92,676.447 1061.44,676.721 1061.99,676.889 1062.57,676.946 1063.15,676.889 1063.7,676.721 1064.21,676.447 1064.66,676.079 1065.2,675.542 1065.57,675.093 1065.84,674.581 1066.01,674.026 1066.07,673.449 1066.01,672.871 1065.84,672.316 1065.57,671.804 1065.2,671.355 1064.75,670.987 1064.24,670.714 1063.68,670.545 1063.11,670.489 1062.53,670.545 1061.97,670.714 1061.46,670.987 1061.01,671.355 1060.48,671.893 1060.11,672.342 1059.83,672.853 1059.67,673.409 1059.61,673.986" stroke="black" stroke-width="1" />
+        <polygon class="station-poly" fill="white" points=" 129.904,681.078 130.073,681.633 130.346,682.145 130.714,682.593 131.252,683.131 131.7,683.499 132.212,683.772 132.767,683.941 133.345,683.998 133.922,683.941 134.478,683.772 134.989,683.499 135.438,683.131 135.806,682.682 136.079,682.17 136.248,681.615 136.305,681.038 136.248,680.46 136.079,679.905 135.806,679.393 135.438,678.945 134.9,678.407 134.452,678.039 133.94,677.766 133.385,677.597 132.807,677.54 132.23,677.597 131.675,677.766 131.163,678.039 130.714,678.407 130.346,678.856 130.073,679.368 129.904,679.923 129.847,680.5" stroke="black" stroke-width="1" />
+    </g>
+    <g>
+        <defs>
+            <path d="M293.386 298.946 L293.386 298.946 L293.394 302.946" id="textp0" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp0">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M496.783 536.782 L496.783 536.782 L503.383 543.381" id="textp1" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp1">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+                <tspan dx="1.33333" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M440.526 554.884 L440.526 554.884 L443.354 552.055" id="textp2" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp2">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M534.928 478.179 L534.928 478.179 L534.928 474.179" id="textp3" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp3">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M196.784 643.842 L196.784 643.842 L206.117 643.842" id="textp4" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp4">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+                <tspan dx="1.33333" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M340.453 645.396 L340.453 645.396 L342.708 645.394" id="textp5" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp5">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M483.953 835.324 L483.953 835.324 L486.781 832.495" id="textp6" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp6">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M608.088 699.593 L608.088 699.593 L610.916 696.764" id="textp7" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp7">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M534.928 411.725 L534.928 411.725 L534.928 407.725" id="textp8" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp8">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.491 616.262 L730.491 616.262 L730.491 620.262" id="textp9" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp9">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M755.671 653.642 L755.671 653.642 L759.671 653.642" id="textp10" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp10">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M790.257 281.466 L790.257 281.466 L796.857 274.866" id="textp11" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp11">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M731.298 324.303 L731.298 324.303 L737.898 317.703" id="textp12" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp12">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M722.291 372.151 L722.291 372.151 L722.291 368.151" id="textp13" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp13">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M705.616 602.064 L705.616 602.064 L708.445 599.236" id="textp14" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp14">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M533.328 558.607 L533.328 558.607 L533.328 549.274" id="textp15" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp15">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+                <tspan dx="1.33333" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M560.935 508.526 L560.935 508.526 L563.763 505.697" id="textp16" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp16">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.091 689.383 L732.091 689.383 L732.091 698.716" id="textp17" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp17">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+                <tspan dx="1.33333" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M285.112 217.204 L285.112 217.204 L285.112 213.204" id="textp18" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp18">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M118.89 700.753 L118.89 700.753 L121.719 697.925" id="textp19" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp19">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M625.774 658.442 L625.774 658.442 L645.774 658.442" id="textp20" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp20">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+                <tspan dx="1.33333" fill="#f59e00">
+                    3
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+                <tspan dx="1.33333" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M757.662 1123.79 L757.662 1123.79 L760.49 1126.62" id="textp21" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp21">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M57.9657 599.86 L57.9657 599.86 L60.7941 602.689" id="textp22" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp22">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M104.267 645.484 L104.267 645.484 L103.803 645.257 L106.186 645.353" id="textp23" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp23">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M529.911 789.366 L529.911 789.366 L532.739 786.538" id="textp24" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp24">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M293.312 127.454 L293.312 127.454 L293.312 131.454" id="textp25" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp25">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M607.684 461.776 L607.684 461.776 L610.513 458.947" id="textp26" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp26">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M444.295 486.556 L444.295 486.556 L447.123 489.384" id="textp27" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp27">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M386.489 428.75 L386.489 428.75 L389.317 431.578" id="textp28" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp28">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M409.008 910.269 L409.008 910.269 L411.836 907.44" id="textp29" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp29">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M664.363 716.096 L664.363 716.096 L668.363 716.096" id="textp30" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp30">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M562.116 743.302 L562.116 743.302 L568.715 736.702" id="textp31" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp31">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+                <tspan dx="1.33333" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M446.408 770.35 L446.408 770.35 L450.408 770.35" id="textp32" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp32">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M320.056 373.914 L320.056 373.914 L322.885 376.742" id="textp33" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp33">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M262.074 645.442 L262.074 645.442 L266.074 645.442" id="textp34" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp34">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M392.134 603.276 L392.134 603.276 L394.962 600.447" id="textp35" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp35">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M671.316 398.145 L671.316 398.145 L674.144 395.316" id="textp36" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp36">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M292.759 709.745 L292.759 709.745 L295.588 712.574" id="textp37" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp37">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M247.066 664.052 L247.066 664.052 L249.894 666.88" id="textp38" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp38">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1038.84 655.558 L1038.84 655.558 L1040.31 657.028" id="textp39" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp39">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M973.172 653.642 L973.172 653.642 L977.172 653.642" id="textp40" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp40">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M907.477 653.642 L907.477 653.642 L911.477 653.642" id="textp41" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp41">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M357.252 950.428 L357.252 950.428 L360.08 947.6" id="textp42" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp42">
+                <tspan dx="0" fill="#f59e00">
+                    3
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M381.788 770.35 L381.788 770.35 L385.788 770.35" id="textp43" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp43">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.491 749.123 L730.491 749.123 L730.491 753.123" id="textp44" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp44">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M717.273 352.187 L717.273 352.187 L720.102 349.358" id="textp45" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp45">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M722.291 556.634 L722.291 556.634 L722.291 552.634" id="textp46" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp46">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.491 826.25 L730.491 826.25 L730.491 830.25" id="textp47" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp47">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.491 903.376 L730.491 903.376 L730.491 907.376" id="textp48" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp48">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.506 1062.76 L730.506 1062.76 L730.507 1065.69" id="textp49" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp49">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.491 431.725 L730.491 431.725 L730.491 435.725" id="textp50" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp50">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M730.491 980.503 L730.491 980.503 L730.491 984.503" id="textp51" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp51">
+                <tspan dx="0" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M830.61 224.808 L830.61 224.808 L837.183 218.182" id="textp52" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp52">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M856.999 112.907 L856.999 112.907 L856.999 122.241" id="textp53" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp53">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M544.954 605.6 L544.954 605.6 L559.096 619.742" id="textp54" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp54">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+                <tspan dx="1.33333" fill="#f59e00">
+                    3
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+                <tspan dx="1.33333" fill="#ea5297">
+                    4
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M845.599 53.6203 L845.599 53.6203 L845.599 44.2869" id="textp55" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp55">
+                <tspan dx="0" fill="#ea5297">
+                    4
+                </tspan>
+                <tspan dx="1.33333" fill="#13a538">
+                    2
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M512.148 770.35 L512.148 770.35 L516.148 770.35" id="textp56" />
+        </defs>
+        <text class="line-label" dy="0em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy="0em" startOffset="50%" text-anchor="middle" xlink:href="#textp56">
+                <tspan dx="0" fill="#0000ff">
+                    5
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1202.13 818.806 L1202.13 818.806 L1204.96 821.634" id="textp57" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp57">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M820.086 653.642 L820.086 653.642 L824.086 653.642" id="textp58" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp58">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1155.67 772.352 L1155.67 772.352 L1158.5 775.181" id="textp59" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp59">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1109.22 725.899 L1109.22 725.899 L1112.05 728.727" id="textp60" />
+        </defs>
+        <text class="line-label" dy=".75em" font-family="Ubuntu" font-size="4" font-weight="bold">
+            <textPath dy=".75em" startOffset="50%" text-anchor="middle" xlink:href="#textp60">
+                <tspan dx="0" fill="#e8001b">
+                    1
+                </tspan>
+            </textPath>
+        </text>
+    </g>
+    <g>
+        <defs>
+            <path d="M860.06 27.25 L860.06 27.25 L908.489 27.25" id="stlblp0" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp0">
+                Gundelfinger Str.
+            </textPath>
+        </text>
+        <defs>
+            <path d="M296.373 89.7042 L296.373 89.7042 L324.801 89.7042" id="stlblp1" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp1">
+                Moosweiher
+            </textPath>
+        </text>
+        <defs>
+            <path d="M46.3513 589.338 L46.3513 589.338 L103.351 589.338" id="stlblp2" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp2">
+                Bollerstaudenstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M358.622 964.063 L358.622 964.063 L412.765 964.063" id="stlblp3" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp3">
+                Innsbrucker Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M795.802 1151.43 L795.802 1151.43 L827.087 1151.43" id="stlblp4" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp4">
+                Dorfstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M546.19 401.975 L546.19 401.975 L603.19 401.975" id="stlblp5" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp5">
+                Technische Fakultät
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1232.98 839.154 L1232.98 839.154 L1275.7 839.154" id="stlblp6" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp6">
+                Laßbergstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M108.805 714.246 L108.805 714.246 L157.234 714.246" id="stlblp7" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp7">
+                Munzinger Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M668.188 660.157 L668.188 660.157 L692.33 684.299" id="stlblp8" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp8">
+                Stadttheater
+            </textPath>
+        </text>
+        <defs>
+            <path d="M735.415 643.7 L735.415 643.7 L765.618 613.497" id="stlblp9" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp9">
+                Bertoldsbrunnen
+            </textPath>
+        </text>
+        <defs>
+            <path d="M551.675 589.338 L551.675 589.338 L614.39 589.338" id="stlblp10" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp10">
+                Rathaus im Stühlinger
+            </textPath>
+        </text>
+        <defs>
+            <path d="M556.589 709.746 L556.589 709.746 L593.589 709.746" id="stlblp11" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp11">
+                Reiterstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M734.285 339.521 L734.285 339.521 L765.57 339.521" id="stlblp12" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp12">
+                Komturplatz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M546.588 526.884 L546.588 526.884 L600.731 526.884" id="stlblp13" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp13">
+                Robert-Koch-Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M733.872 714.246 L733.872 714.246 L773.729 714.246" id="stlblp14" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp14">
+                Johanneskirche
+            </textPath>
+        </text>
+        <defs>
+            <path d="M233.694 645.787 L233.694 645.787 L265.918 613.564" id="stlblp15" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp15">
+                Am Lindenwäldle
+            </textPath>
+        </text>
+        <defs>
+            <path d="M546.922 776.7 L546.922 776.7 L609.636 776.7" id="stlblp16" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp16">
+                H.-von-Stephan-Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M733.026 589.338 L733.026 589.338 L764.312 589.338" id="stlblp17" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="bold">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp17">
+                Europaplatz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M621.113 642.202 L621.113 642.202 L645.256 618.06" id="stlblp18" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp18">
+                Hauptbahnhof
+            </textPath>
+        </text>
+        <defs>
+            <path d="M584.341 622.558 L584.341 622.558 L627.055 622.558" id="stlblp19" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp19">
+                Eschholzstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M776.175 296.656 L776.175 296.656 L813.175 296.656" id="stlblp20" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp20">
+                Hornusstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M858.479 148.491 L858.479 148.491 L884.051 148.491" id="stlblp21" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp21">
+                Berggasse
+            </textPath>
+        </text>
+        <defs>
+            <path d="M463.882 553.611 L463.882 553.611 L500.882 553.611" id="stlblp22" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp22">
+                Runzmattenweg
+            </textPath>
+        </text>
+        <defs>
+            <path d="M858.479 87.8703 L858.479 87.8703 L906.908 87.8703" id="stlblp23" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp23">
+                Glottertalstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M819.041 253.791 L819.041 253.791 L853.184 253.791" id="stlblp24" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp24">
+                Tullastraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M858.478 209.111 L858.478 209.111 L898.335 209.111" id="stlblp25" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp25">
+                Reutebachgasse
+            </textPath>
+        </text>
+        <defs>
+            <path d="M733.571 683.019 L733.571 683.019 L759.142 683.019" id="stlblp26" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp26">
+                Holzmarkt
+            </textPath>
+        </text>
+        <defs>
+            <path d="M295.552 261.204 L295.552 261.204 L321.123 261.204" id="stlblp27" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp27">
+                Moosgrund
+            </textPath>
+        </text>
+        <defs>
+            <path d="M139.316 683.019 L139.316 683.019 L170.602 683.019" id="stlblp28" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp28">
+                VAG-Zentrum
+            </textPath>
+        </text>
+        <defs>
+            <path d="M395.378 926.59 L395.378 926.59 L429.521 926.59" id="stlblp29" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp29">
+                Vauban-Mitte
+            </textPath>
+        </text>
+        <defs>
+            <path d="M422.18 466.249 L422.18 466.249 L467.751 466.249" id="stlblp30" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp30">
+                Am Bischofskreuz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M484.482 771.558 L484.482 771.558 L504.584 751.456" id="stlblp31" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp31">
+                Pressehaus
+            </textPath>
+        </text>
+        <defs>
+            <path d="M432.851 889.118 L432.851 889.118 L492.708 889.118" id="stlblp32" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp32">
+                Paula-Modersohn-Platz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M300.915 344.981 L300.915 344.981 L329.343 344.981" id="stlblp33" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp33">
+                Paduaallee
+            </textPath>
+        </text>
+        <defs>
+            <path d="M582.741 489.411 L582.741 489.411 L642.598 489.411" id="stlblp34" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp34">
+                Friedrich-Ebert-Platz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M646.21 616.065 L646.21 616.065 L688.924 616.065" id="stlblp35" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp35">
+                Fahnenbergplatz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M507.796 814.173 L507.796 814.173 L550.51 814.173" id="stlblp36" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp36">
+                Weddigenstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M308.148 646.65 L308.148 646.65 L342.392 612.406" id="stlblp37" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp37">
+                Bugginger Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M429.557 580.141 L429.557 580.141 L469.414 580.141" id="stlblp38" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp38">
+                Bissierstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M657.686 414.466 L657.686 414.466 L677.543 414.466" id="stlblp39" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp39">
+                Rennweg
+            </textPath>
+        </text>
+        <defs>
+            <path d="M318.728 737.522 L318.728 737.522 L350.013 737.522" id="stlblp40" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp40">
+                Dorfbrunnen
+            </textPath>
+        </text>
+        <defs>
+            <path d="M275.862 694.657 L275.862 694.657 L324.291 694.657" id="stlblp41" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp41">
+                Krozinger Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1020.94 646.65 L1020.94 646.65 L1051.15 616.446" id="stlblp42" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp42">
+                Alter Messplatz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M963.246 646.65 L963.246 646.65 L997.491 612.406" id="stlblp43" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp43">
+                Maria-Hilf-Kirche
+            </textPath>
+        </text>
+        <defs>
+            <path d="M905.551 646.65 L905.551 646.65 L935.755 616.446" id="stlblp44" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp44">
+                Brauerei Ganter
+            </textPath>
+        </text>
+        <defs>
+            <path d="M120.214 646.65 L120.214 646.65 L168.6 598.264" id="stlblp45" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp45">
+                Geschwister-Scholl-Platz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M847.856 646.65 L847.856 646.65 L884.12 610.385" id="stlblp46" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp46">
+                Schwabentorbrücke
+            </textPath>
+        </text>
+        <defs>
+            <path d="M423.862 771.558 L423.862 771.558 L445.984 749.436" id="stlblp47" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp47">
+                Haslach Bad
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 791.373 L732.731 791.373 L772.588 791.373" id="stlblp48" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp48">
+                Lorettostraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M628.536 372.493 L628.536 372.493 L682.679 372.493" id="stlblp49" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp49">
+                Eichstetter Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 526.884 L732.731 526.884 L789.731 526.884" id="stlblp50" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp50">
+                Tennenbacher Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 868.5 L732.731 868.5 L772.588 868.5" id="stlblp51" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp51">
+                Holbeinstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M363.241 771.558 L363.241 771.558 L389.404 745.395" id="stlblp52" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp52">
+                Scherrerplatz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 945.626 L732.731 945.626 L758.302 945.626" id="stlblp53" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp53">
+                Wonnhalde
+            </textPath>
+        </text>
+        <defs>
+            <path d="M740.551 1096.89 L740.551 1096.89 L774.694 1096.89" id="stlblp54" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp54">
+                Klosterplatz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 401.975 L732.731 401.975 L764.017 401.975" id="stlblp55" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp55">
+                Okenstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 1022.75 L732.731 1022.75 L758.302 1022.75" id="stlblp56" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp56">
+                Wiesenweg
+            </textPath>
+        </text>
+        <defs>
+            <path d="M3.05414 620.308 L3.05414 620.308 L68.6256 620.308" id="stlblp57" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp57">
+                Maria-von-Rudloff-Platz
+            </textPath>
+        </text>
+        <defs>
+            <path d="M295.552 175.454 L295.552 175.454 L349.694 175.454" id="stlblp58" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp58">
+                Diakoniekrankenhaus
+            </textPath>
+        </text>
+        <defs>
+            <path d="M545.368 433.202 L545.368 433.202 L593.797 433.202" id="stlblp59" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp59">
+                Elsässer Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M588.45 668.11 L588.45 668.11 L636.879 668.11" id="stlblp60" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp60">
+                Erbprinzenstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M732.731 464.429 L732.731 464.429 L766.874 464.429" id="stlblp61" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp61">
+                Hauptstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M628.54 693.428 L628.54 693.428 L665.54 693.428" id="stlblp62" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp62">
+                Mattenstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M620.213 451.938 L620.213 451.938 L657.213 451.938" id="stlblp63" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp63">
+                Hauptfriedhof
+            </textPath>
+        </text>
+        <defs>
+            <path d="M470.323 851.645 L470.323 851.645 L524.466 851.645" id="stlblp64" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp64">
+                Peter-Thumb-Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M376.3 633.398 L376.3 633.398 L404.729 633.398" id="stlblp65" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp65">
+                Rohrgraben
+            </textPath>
+        </text>
+        <defs>
+            <path d="M545.368 464.429 L545.368 464.429 L585.225 464.429" id="stlblp66" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp66">
+                Berliner Allee
+            </textPath>
+        </text>
+        <defs>
+            <path d="M467.117 491.156 L467.117 491.156 L532.688 491.156" id="stlblp67" />
+        </defs>
+        <text class="station-label" dy=".75em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy=".75em" startOffset="100%" text-anchor="end" xlink:href="#stlblp67">
+                Freiburg Killianstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1191.47 798.358 L1191.47 798.358 L1217.04 798.358" id="stlblp68" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp68">
+                Römerhof
+            </textPath>
+        </text>
+        <defs>
+            <path d="M790.16 646.65 L790.16 646.65 L810.262 626.548" id="stlblp69" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp69">
+                Oberlinden
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1150.67 757.561 L1150.67 757.561 L1193.39 757.561" id="stlblp70" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp70">
+                Hasemannstraße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1109.87 716.764 L1109.87 716.764 L1161.16 716.764" id="stlblp71" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp71">
+                Emil-Gött-Straße
+            </textPath>
+        </text>
+        <defs>
+            <path d="M1069.08 675.967 L1069.08 675.967 L1111.79 675.967" id="stlblp72" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp72">
+                Musikhochschule
+            </textPath>
+        </text>
+        <defs>
+            <path d="M361.545 405.615 L361.545 405.615 L421.402 405.615" id="stlblp73" />
+        </defs>
+        <text class="station-label" dy="0em" font-family="Ubuntu Condensed" font-size="6" font-weight="normal">
+            <textPath dy="0em" startOffset="0" text-anchor="start" xlink:href="#stlblp73">
+                Betzenhauser Torplatz
+            </textPath>
+        </text>
+    </g>
+</svg>
