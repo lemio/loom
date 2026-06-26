@@ -6,9 +6,9 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: update apt
         run: sudo apt update
       - name: install dependencies
@@ -23,9 +23,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: update apt
         run: sudo apt update
       - name: install dependencies
@@ -40,9 +40,9 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: update apt
         run: sudo apt update
       - name: install dependencies
@@ -61,9 +61,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: update apt
         run: sudo apt update
       - name: install dependencies
@@ -82,9 +82,9 @@ jobs:
     runs-on: macos-14
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: install dependencies
         run: brew install --force --overwrite cmake && brew install --force --overwrite glpk
       - name: cmake
@@ -97,9 +97,9 @@ jobs:
     runs-on: macos-15
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: install dependencies
         run: brew install --force --overwrite cmake && brew install --force --overwrite glpk && brew tap coin-or-tools/coinor && brew install --force --overwrite coin-or-tools/coinor/cbc
       - name: cmake
@@ -112,9 +112,9 @@ jobs:
     runs-on: macos-15-intel
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: install dependencies
         run: brew install --force --overwrite cmake && brew install --force --overwrite glpk && brew tap coin-or-tools/coinor && brew install --force --overwrite coin-or-tools/coinor/cbc
       - name: cmake
@@ -127,9 +127,9 @@ jobs:
     runs-on: macos-26
     steps:
       - name: Checkout repository code
-        uses: actions/checkout@v2
-      - name: Checkout submodules
-        run: git submodule update --init --recursive
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
       - name: install dependencies
         run: brew install --force --overwrite cmake && brew install --force --overwrite glpk && brew tap coin-or-tools/coinor && brew install --force --overwrite coin-or-tools/coinor/cbc
       - name: cmake
